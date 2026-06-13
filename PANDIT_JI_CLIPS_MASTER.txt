@@ -1,0 +1,731 @@
+================================================================================
+MASTER CLIP LIST — SAINTS PRAISING PANDIT KASHINATH MISHRA JI
+Akhil Bharatiya Sant Sammelan, Jagannath Puri (Sept 2024)
+================================================================================
+HOW TO READ EACH ENTRY:
+  CLIP        -> clip id
+  TIME        -> Start -> End (HH:MM:SS)
+  CHANGED     -> YES or NO  (was the timing/clip changed in the verification pass)
+  WHY         -> reason for the change (or why it was left as-is)
+  WHAT'S IN IT-> exactly what the saint says about Pandit Ji
+
+LEGEND:  ⭐ = flagship / strongest   |   ⚪ = host/anchor (not an independent saint)
+TOTAL CONFIRMED CLIPS ACROSS 6 VIDEOS: 60   (+ 3 removed, a few optional/host)
+================================================================================
+
+
+
+################################################################################
+FILE: captions_7OfFvpvu-Co.txt
+VIDEO 6 — "विश्व का पहला संत सम्मेलन" | Day 1, Third Session | 2024-09-15
+Confirmed clips: 2
+################################################################################
+
+CLIP 6.1  ⭐
+TIME:    00:40:34 -> 00:44:28   (~3:54)
+CHANGED: YES
+WHY:     Was 00:40:06–00:44:21. Old start was inside the bhajan and the old end
+         cut the closing line. Trimmed start to where he begins addressing the
+         hall; extended end to finish the applause request.
+WHAT'S IN IT: Vrindavan Kathavachak. Makes the astonishing claim that just as
+         Krishna needed the flute in Vrindavan, when He came as Jagannath He
+         "created Kashinath" to protect Sanatan culture — calls Kashinath Mishra
+         Ji a SWAROOP (divine form) of Lord Jagannath. Thanks him, offers to host
+         the next sammelan in Vrindavan, and asks the whole hall to applaud him.
+
+CLIP 6.2
+TIME:    01:04:56 -> 01:05:48   (~0:52)
+CHANGED: YES
+WHY:     Was 01:04:56–01:08:25. The old end added ~2.5 min of unrelated general
+         dharma talk (uttho jawano / Muslim-villages / Kumbh) that never names
+         him. End tightened to where the praise of him ends.
+WHAT'S IN IT: Young Sadhvi. Calls Kashinath Ji her "bade bhaiya" and declares God
+         has already taken birth — "in Jagannath Puri as our Kashinath Ji bhaiya;
+         this is the definition of God, this IS God, this is a true saint."
+
+
+
+################################################################################
+FILE: captions_CkZwAyimScE.txt
+VIDEO 5 — पं० काशीनाथ मिश्र जी का अभिभाषण | Day 1 | 2024-09-15
+(Most of this video is Pandit Ji's OWN speech; other saints praise him only after
+~01:41:00.)  Confirmed clips: 5
+################################################################################
+
+CLIP 5.1
+TIME:    01:41:01 -> 01:45:36   (~4:35)
+CHANGED: YES (minor)
+WHY:     Essentially unchanged; end nudged +2s to finish "जय श्री राम".
+WHAT'S IN IT: Ramgiri Ji Maharaj (Ujjain). "It is great fortune that Kashinath Ji
+         made this effort for all saints"; praises him as a fine orator; notes he
+         gathered saints from 30 states & 7 union territories; "we are all with him."
+
+CLIP 5.2
+TIME:    01:51:03 -> 01:51:20   (~0:17)
+CHANGED: YES
+WHY:     Was 01:50:13–01:55:28 (~5 min). The rest was generic Warkari / Shivaji /
+         Bhavishya-Puran discourse with no mention of Pandit Ji. Kept only the
+         named thank-you.
+WHAT'S IN IT: Warkari Sampradaya Sant (Maharashtra). Directly thanks "Shraddheya
+         Shri Kashinath Ji Maharaj Ji" for the invitation; 100+ Warkaris came.
+
+CLIP 5.3
+TIME:    02:00:50 -> 02:05:42   (~4:52)
+CHANGED: YES
+WHY:     Was 02:00:44–02:06:08; trimmed the tail (post-02:05:42 is generic).
+WHAT'S IN IT: Gujarat Sant. "Yatha naam tatha gun — Shri Vishwanath Ji Mishra Ji";
+         credits Mishra Ji and his whole team for everyone's Jagannath darshan;
+         "Mishra Ji invited you all for THIS cause."
+
+CLIP 5.4a
+TIME:    02:30:13 -> 02:31:07   (~0:54)
+CHANGED: YES (split from old 5.4)
+WHY:     Old 5.4 was one 11-min clip mostly of generic Hindu-unity talk. Split
+         into 5.4a (the naming) and 5.4b (the agenda), dropping the middle.
+WHAT'S IN IT: Surat Sant. Names Kashinath Mishra Ji the SUTRADHAR (director/
+         mastermind) of the program, then offers dandavat pranam.
+
+CLIP 5.4b  ⭐
+TIME:    02:36:58 -> 02:40:46   (~3:48)
+CHANGED: YES (split from old 5.4)
+WHY:     Same split as above; this keeps the agenda/"heaven" section + the pledge.
+WHAT'S IN IT: Surat Sant. "I read Kashinath Mishra Ji's entire 3-day agenda — if
+         it bears fruit, HEAVEN IS RIGHT HERE!" Says his forward-looking agenda
+         must be deeply contemplated; thanks him; pledges "tan man dhan se jude
+         rahenge"; ends in a jaikara.
+
+
+
+################################################################################
+FILE: captions_WbJX0notqqU.txt
+VIDEO 3 — सनातन धर्म के बारे में विचार | Day 2 | 2024-09-16
+Confirmed clips: 14  (1 removed)
+################################################################################
+
+CLIP 3.1
+TIME:    01:04:43 -> 01:05:16   (~0:33)
+CHANGED: YES (minor)
+WHY:     Tightened to the gratitude lines.
+WHAT'S IN IT: Swami Guru Sharanand Ji. Thanks Kashinath Mishra Ji for launching
+         the campaign to unite the whole world and taking that sankalp.
+
+CLIP 3.2
+TIME:    (was 01:09:48 -> 01:09:55)
+CHANGED: YES — REMOVED
+WHY:     Only ~7 seconds (under 10s) AND it is just a stage callback ("let me call
+         Mishra Ji back to address you"), not praise. Removed.
+WHAT'S IN IT: n/a (removed)
+
+CLIP 3.3
+TIME:    01:22:06 -> 01:29:24   (~7:18)
+CHANGED: YES
+WHY:     Was 01:22:40–01:29:21. Start moved earlier to include the "dharma-bheer
+         who united everyone" setup that the first mention refers to.
+WHAT'S IN IT: Swami Om Prakash Nand Ji (86+, ex-RSS pracharak). Frames the whole
+         gathering around Pandit Ji's vow: when Sanatan was attacked he stood up
+         to unite all; through him Kaliyug's dark time ends; a good effort to
+         support; he gathered all sampradayas. (4 named mentions across the speech.)
+
+CLIP 3.4
+TIME:    01:52:34 -> 01:56:36   (~4:02)
+CHANGED: NO
+WHY:     Original timing was already accurate.
+WHAT'S IN IT: Digambar Niranjan Girija Ji (Ujjain). Dandavat to "Vishwanath Mishra
+         Ji"; says his prophecies came true in past/present and will in future.
+
+CLIP 3.5
+TIME:    01:58:54 -> 01:59:35   (~0:41)
+CHANGED: YES
+WHY:     Was 01:58:09–02:02:02; trimmed self-intro and the post-01:59:35 generic
+         kalyug-prophecy tail.
+WHAT'S IN IT: Mahamandleshwar Ramdas Maharaj. "As Mishra Ji said…" then thanks
+         Mishra Ji's volunteer team for handling the huge sammelan flawlessly.
+
+CLIP 3.6a
+TIME:    02:18:16 -> 02:18:36   (~0:20)
+CHANGED: YES (split from old 3.6)
+WHY:     Old 3.6 was 10 min, mostly a Ramayana/Ravana discourse. Split into the
+         two praise bookends.
+WHAT'S IN IT: Mahant Ram Sharan Das Ji (Gujarat). "Our Shri Mishra Ji has done very
+         beautiful work" — koti koti vandan.
+
+CLIP 3.6b
+TIME:    02:26:50 -> 02:27:46   (~0:56)
+CHANGED: YES (split from old 3.6)
+WHY:     Same split; this is the second praise bookend.
+WHAT'S IN IT: Same saint. Praises his simplicity, equal treatment of all, smiling
+         face; "Blessed is Mishra Ji — may God add some of our lifespan to his."
+
+CLIP 3.7a  ⭐
+TIME:    02:32:42 -> 02:43:20   (~10:38)
+CHANGED: YES
+WHY:     Old 3.7 ran 02:32:33–02:49:00, but 02:43:20–02:48:30 is the saint's own
+         gaushala digression (not about Pandit Ji). Kept the main tribute here.
+WHAT'S IN IT: Vrindavan Sant (Banke Bihari Sevak). LOH PURUSH tribute: honours him
+         as "Sarad"; in 3 hrs he never forgot Govind; not a wrinkle of worry on
+         his face — only sahajta/samrasta/ekta; "his supreme fortune that so many
+         saints are with him"; never used harsh speech.
+
+CLIP 3.7b
+TIME:    02:48:30 -> 02:49:02   (~0:32)
+CHANGED: YES (split from old 3.7)
+WHY:     The closing blessing, kept separate from the gaushala digression that
+         preceded it.
+WHAT'S IN IT: Same saint. "May his will-power always stay constant, may he never
+         tire — I bow to him from my heart."
+
+CLIP 3.8
+TIME:    03:00:11 -> 03:00:26   (~0:15)
+CHANGED: YES
+WHY:     Was 03:00:01–03:01:20; surrounding lines are about his guru/youth, so
+         tightened to the praise sentence.
+WHAT'S IN IT: Second Vrindavan Sant (Braj). "Very commendable work by revered Shri
+         Mishra Ji — I offer profuse praise (bhoori bhoori prashansa)."
+
+CLIP 3.9a  ⭐
+TIME:    03:12:00 -> 03:12:40   (~0:40)
+CHANGED: YES (split from old 3.9)
+WHY:     Old 3.9 was ~11 min; the rest is general Shaiva discourse. Split into the
+         two name-interpretation gems.
+WHAT'S IN IT: Neelkanth Shivcharya Dhareshwar Maharaj. "MISHRA = one who MIXES" —
+         he combined Shankaracharya, Madhva, Shivacharya, Warkari & all saints
+         into a "beautiful khichdi", and even Lord Shiva came to taste it.
+
+CLIP 3.9b
+TIME:    03:15:09 -> 03:15:36   (~0:27)
+CHANGED: YES (split from old 3.9)
+WHY:     Same split; the second name-interpretation.
+WHAT'S IN IT: Same saint. "This is KASHINATH! Kashi reversed = 'shika' = LEARN —
+         everyone must learn."
+
+CLIP 3.10
+TIME:    03:35:51 -> 03:36:28   (~0:37)
+CHANGED: YES
+WHY:     Was 03:28:46–03:36:16 (~7 min) — entirely his own gau-raksha/NRC/Sambhaji
+         speech. ONLY the closing ~33s mention Pandit Ji. Kept that.
+WHAT'S IN IT: Sant Dada Ji (Gau Rakshak, Satara). "This work should've been done
+         long ago by saints but wasn't — Mishra Ji is doing it now; his upkaar
+         upon us is immense."
+
+CLIP 3.11a  ⭐
+TIME:    03:42:15 -> 03:42:53   (~0:38)
+CHANGED: YES (split from old 3.11)
+WHY:     Old 3.11 ran 03:41:29–03:52:48 with a 6.5-min Mahadev-Gopi story between
+         mentions. Split into the two flagship statements.
+WHAT'S IN IT: Doctor Babu Sant Maharaj (Ujjain). Seeing him sit 5 hrs: "whose
+         power is this? God made Mishra Ji His INSTRUMENT — only the special one
+         is chosen."
+
+CLIP 3.11b
+TIME:    03:49:39 -> 03:50:05   (~0:26)
+CHANGED: YES (split from old 3.11)
+WHY:     Same split; the second flagship statement.
+WHAT'S IN IT: Same saint. "We weren't just invited — we all came on our own; our
+         connection with Mishra Ji spans infinite past lives."
+
+
+
+################################################################################
+FILE: captions_Ci2x0I-YCYI.txt
+VIDEO 1 — नशामुक्त भारत की अपील | 2024-09-18
+Confirmed saint clips: 16  + 2 host clips  (3 removed)
+NOTE: the on-stage host/anchor is an associate (3rd-person about Pandit Ji), not
+Pandit Ji himself.
+################################################################################
+
+CLIP 1
+TIME:    00:00:04 -> 00:00:18   (~0:14)
+CHANGED: YES
+WHY:     Was 00:00:00–00:00:15; nudged to the spoken line.
+WHAT'S IN IT: Mahamandaleshwar (Ujjain) during the opening bhajan — names "our
+         Mishra Ji" as one who teaches through the Vedas.
+
+CLIP 2
+TIME:    00:11:05 -> 00:11:26   (~0:21)
+CHANGED: YES
+WHY:     Was old "Clip 3" 00:11:09–00:11:24; widened slightly (auto-caption garbled).
+WHAT'S IN IT: Ramakrishna Mission saint. After quoting Vivekananda, ties the
+         resolve taken here to "Kashinath Ji's name."
+
+CLIP 3
+TIME:    00:15:53 -> 00:16:09   (~0:16)
+CHANGED: YES
+WHY:     Was old "Clip 4" 00:15:56–00:16:12; tightened.
+WHAT'S IN IT: Dinesh Maharaj (Maharashtra). Credits the organizer for arranging
+         the program, gathering all saints, propagating an important ideology.
+         (⚠ caption says "Pradeep Mishra" — a mis-transcription of the organizer
+         Kashinath/Vishwanath Mishra Ji, since he credits THIS event's organizer.)
+
+CLIP 4
+TIME:    00:47:56 -> 00:48:54   (~0:58)
+CHANGED: YES (timing + attribution)
+WHY:     Was 00:46:23–00:48:52 and wrongly labelled "Sudarshan Giri". The 00:46:19–
+         00:47:58 part is a Namdev/Paithan intro; trimmed to the praise. Speaker
+         relabelled to the Paithan (Yogiraj) group saint.
+WHAT'S IN IT: "On one side is Jagannath, on the other Kashinath Ji — when devotee
+         and God unite no task is hard"; like the Vanar Sena with Ram, all saints
+         here are with you (Kashinath Ji).
+
+CLIP 5
+TIME:    00:59:30 -> 00:59:48   (~0:18)
+CHANGED: YES (minor)
+WHY:     Tightened to the line.
+WHAT'S IN IT: Sudarshan Maharaj. "Mishra Ji raised one call of devotion and all
+         Mahants, Siddhas, Munis, Mahamandals came."
+
+CLIP 6
+TIME:    01:01:39 -> 01:02:36   (~0:57)
+CHANGED: YES (minor)
+WHY:     Tightened.
+WHAT'S IN IT: Sudarshan Maharaj. "Today Mishra Ji organised this satsang, so we
+         must all unite"; closes paying respects to Mishra Ji.
+
+CLIP 7
+TIME:    01:03:14 -> 01:03:30   (~0:16)
+CHANGED: YES (split from old 8)
+WHY:     Old 8 was 2 min with ~80s of his own gaushala details in the middle.
+WHAT'S IN IT: Shyam/Kesham Bhai (Alwar). "The development Mishra Ji has done here —
+         I have never seen anything like it."
+
+CLIP 8
+TIME:    01:05:15 -> 01:05:33   (~0:18)
+CHANGED: YES (split from old 8)
+WHY:     Second bookend of old 8.
+WHAT'S IN IT: Same saint. "In service of Gau Mata and the nation, I'll always
+         stand with Mishra Ji; when he comes to Vrindavan we'll all support him."
+
+CLIP 9  ⭐
+TIME:    01:20:08 -> 01:21:18   (~1:10)
+CHANGED: YES (split from old 9)
+WHY:     Old 9 was 01:20:08–01:25:38 with ~2 min of gurukul/British-era history.
+WHAT'S IN IT: Gurukul Advocate Saint. Bows to "Shri Kashinath Ji" with all his
+         heart; he called saints from every corner = a Kumbh-snan; koti-koti naman
+         to the mother who bore such a son; "no words to express what I feel."
+
+CLIP 10
+TIME:    01:23:00 -> 01:23:14   (~0:14)
+CHANGED: YES (split from old 9)
+WHY:     Second named line of old 9.
+WHAT'S IN IT: Same saint. "Before us is one Kashinath — if our gurukuls run, there
+         will be thousands of Kashinaths." (Closes with "Jai Shri Kashinath Ji.")
+
+CLIP 11
+TIME:    01:48:00 -> 01:48:57   (~0:57)
+CHANGED: YES (minor)
+WHY:     Was 01:48:06–01:48:59; tightened.
+WHAT'S IN IT: Mahamandaleshwar Swami Ramgiri Ji (Ujjain Avahan Akhara). "One single
+         person organised such a grand, peaceful event — I give him special
+         sadhuvad and blessings."
+
+CLIP 12
+TIME:    02:15:00 -> 02:15:50   (~0:50)
+CHANGED: NO
+WHY:     Original timing was accurate.
+WHAT'S IN IT: Speaker at the dais. "Kashinath Ji is leading you all — consider him
+         Hanuman, become the Vanar Sena"; in 3 days "Pandit Kashinath Ji strung all
+         the sects into one garland."
+
+CLIP 13
+TIME:    02:18:55 -> 02:19:30   (~0:35)
+CHANGED: YES (was verification-add 1B)
+WHY:     Tightened to the praise + pledge.
+WHAT'S IN IT: Puri representative (Karpatri tradition). "Kashinath Ji Pandit Ji has
+         made great efforts"; pledges to repeat it next year in Puri.
+
+CLIP 14  ⭐
+TIME:    02:26:55 -> 02:27:14   (~0:19)
+CHANGED: YES
+WHY:     Was old 12 02:27:01–02:27:12 (only ~11s); widened to the full sentence.
+WHAT'S IN IT: Yogiraj Maharaj Paithankar (14th descendant of Sant Eknath).
+         "Jagannathpuri normally has no Kumbh — but because of Kashinath Ji a
+         3-day Kumbh Mela has happened here."
+
+CLIP 15
+TIME:    02:39:14 -> 02:39:48   (~0:34)
+CHANGED: YES (promoted from "additional mention")
+WHY:     Was only listed as an aside; promoted to a full clip.
+WHAT'S IN IT: Thanapati Mohan Nityaanand Giri (Kamakhya, Assam). "Kashinath Mishra
+         Maharaj has divine power within — that's why Giri, Puri, Bharati, Naga…
+         every tradition is on one platform, so beautifully arranged."
+
+CLIP 16  ⭐
+TIME:    02:44:21 -> 02:45:58   (~1:37)
+CHANGED: YES (promoted from "additional mention")
+WHY:     Promoted to a full clip.
+WHAT'S IN IT: Collective blessing call. Calls him "a divine great soul who united
+         all the saints of the world"; asks every saint to bless him in one voice
+         — "may his radiance like the sun never dim."
+
+CLIP H1  ⚪ (host)
+TIME:    02:25:00 -> 02:25:48   (~0:48)
+CHANGED: YES (was verification-add 1D)
+WHY:     Kept but clearly labelled as the host, not an independent saint.
+WHAT'S IN IT: Host praises Kashinath Ji's depth of Puranic knowledge; will give a
+         book to study and spread village to village.
+
+CLIP H2  ⚪ (host)
+TIME:    02:48:43 -> 02:49:31   (~0:48)
+CHANGED: YES (promoted from "additional mention")
+WHY:     Kept, labelled host.
+WHAT'S IN IT: Host highlights his sacrifice — "served even at 11 PM, 12, 1 AM;
+         didn't complete his own sleep, stayed in service."
+
+REMOVED (Video 1):
+ - old Clip 2 (00:03:07–00:03:24, "Bhagiratha") — a bhajan lyric; never names him.
+ - old Clip 1A (00:05:50–00:07:15, "this gathering is history") — anchor banter;
+   the lone "Kashinath" at 00:06:12 is garbled, not praise.
+ - old Clip 1C (02:22:19, Dainik Jagran journalist) — ~14s of "I'm overwhelmed",
+   rest is complaints about temple admin; thin non-saint remark.
+
+
+
+################################################################################
+FILE: captions_8ng4xkeLsIg.txt
+VIDEO 7 — Day 1, Second Session | 2024-09-15
+Confirmed clips: ~18.  NOTE: 7.4–7.13 are ONE continuous ~28-min speech by
+Brahmanand Guru Ji (Karnataka), densely about Mishra Ji — kept as soundbites.
+################################################################################
+
+CLIP 7.1
+TIME:    00:11:11 -> 00:11:54   (~0:43)
+CHANGED: YES
+WHY:     End trimmed from 00:12:09 (rest is generic Sanatan talk).
+WHAT'S IN IT: Bengali/Odia female saint. "Kashinath Ji organised this great event
+         with a mother's heart; gathered all mahatmas together; impossible without
+         divine power."
+
+CLIP 7.2
+TIME:    00:23:28 -> 00:23:50   (~0:22)
+CHANGED: YES
+WHY:     Start trimmed from 00:23:21 to the actual "Kashinath Ji" line.
+WHAT'S IN IT: Naga Baba (Kamakhya). "Let us unite, take Kashinath Ji [as leader]
+         and appeal to the government" against attacks on Sanatan Dharma.
+
+CLIP 7.3
+TIME:    00:40:08 -> 00:40:43   (~0:35)
+CHANGED: YES
+WHY:     Retimed from 00:39:51–00:40:37 (the name is at 00:40:15).
+WHAT'S IN IT: Dr. Shiv Yogi Shivacharya. Acknowledges "Hamare Kashinath Pandit
+         Mishra Ji" as organizer; offers humble service.
+
+CLIP 7.4
+TIME:    00:56:13 -> 00:57:08   (~0:55)
+CHANGED: NO   (Brahmanand speech — timing accurate)
+WHAT'S IN IT: Bows to Kashinath Mishra Ji for organizing this sangam; requests him
+         to present the Bhavishya Malika.
+
+CLIP 7.5
+TIME:    00:59:53 -> 01:00:16   (~0:23)
+CHANGED: NO
+WHAT'S IN IT: "For Kashinath Mishra Ji's unbreakable resolve to be fulfilled, ALL
+         must support him — one stick breaks, ten don't."
+
+CLIP 7.6
+TIME:    01:03:14 -> 01:03:55   (~0:41)
+CHANGED: NO
+WHAT'S IN IT: "Nobody thinks about Mishra Ji — he is one man alone who gathered us.
+         By Shiva's command and Jagannath's oath, WE STAND WITH MISHRA JI."
+
+CLIP 7.7
+TIME:    01:04:07 -> 01:06:35   (~2:28)
+CHANGED: NO
+WHAT'S IN IT: The Shringeri/Bangalore story — Mishra Ji went alone, wasn't
+         recognised, charged Rs 8 lakh; "when he comes to South India I'll be with
+         him"; invites him to present in Kannada/Telugu/Tamil/Malayalam.
+
+CLIP 7.8
+TIME:    01:07:39 -> 01:09:18   (~1:39)
+CHANGED: NO
+WHAT'S IN IT: "Mishra Ji's word reaches people like Krishna's reached Arjun.
+         Kashinath Mishra Ji, explain your Bhavishya Malika in simple language."
+
+CLIP 7.9
+TIME:    01:12:46 -> 01:13:44   (~0:58)
+CHANGED: NO
+WHAT'S IN IT: "We came not on his invitation — Krishna-Jagannath considered Mishra
+         Ji as Sudham and called us through him. Accept Mishra Ji FIRST."
+
+CLIP 7.10
+TIME:    01:15:13 -> 01:15:30   (~0:17)
+CHANGED: NO
+WHAT'S IN IT: "Jagannath's mouth and Mishra Ji's mouth — what is written is the SAME."
+
+CLIP 7.11
+TIME:    01:17:06 -> 01:17:36   (~0:30)
+CHANGED: NO
+WHAT'S IN IT: "Do you know how much Mishra Ji has done? Alone he united, awakened,
+         organised people, ran from South to North, prayed to God."
+
+CLIP 7.12
+TIME:    01:20:24 -> 01:22:05   (~1:41)
+CHANGED: NO
+WHAT'S IN IT: "We came to Mishra Ji's door and owe him a debt — contribute; give
+         him our strength, knowledge, resources to make his Bhavishya Malika succeed."
+
+CLIP 7.13
+TIME:    01:24:00 -> 01:24:30   (~0:30)
+CHANGED: NO
+WHAT'S IN IT: Leads the Jai chant — Bharat Mata / Jagannath / Ram / Sita Ramchandra
+         … then "MISHRA JI KI — JAI!" (puts him in the same line).
+
+CLIP 7.14
+TIME:    01:55:00 -> 01:56:14   (~1:14)
+CHANGED: YES (flagged)
+WHY:     Flagged ⚠ INDIRECT — it says "Mahapurush who created this Kumbh" and does
+         NOT name Pandit Ji. Kept but marked so the editor decides.
+WHAT'S IN IT: Mahamandaleshwar Seetaram Das Ji (Surat). "I thank again and again
+         the Mahapurush who created this wonderful Kumbh; life blooms when such a
+         great soul arrives."
+
+CLIP 7A
+TIME:    Seg 1: 02:08:55 -> 02:09:25   |   Seg 2: 02:14:40 -> 02:15:35
+CHANGED: YES (split)
+WHY:     Was one 02:08:50–02:15:35 range with ~5 min of generic Sanatan-permanence
+         talk between the two mentions. Split into two tight segments.
+WHAT'S IN IT: Seg 1 — "Mishra Ji has taken the vow that we will not stop, not
+         pause." Seg 2 — "with Vasudhaiva-Kutumbakam he called us from Gujarat,
+         Rajasthan, Bihar, Bengal — every state"; ends "Shri Kashinath Bhagwan ki jai."
+
+CLIP 7B
+TIME:    02:17:55 -> 02:18:28   (~0:33)
+CHANGED: YES
+WHY:     Tightened from 02:15:45–02:19:30 (rest is a Vedas discourse, no mention).
+WHAT'S IN IT: Harivansh Rai Brahmachari (Surat). "Mishra Ji is doing great work for
+         the protection of Sanatan Dharma — we've all gathered for that cause."
+
+CLIP 7C
+TIME:    02:24:50 -> 02:25:35   (~0:45)
+CHANGED: NO
+WHAT'S IN IT: Harivansh Rai (closing). "Mishra Ji gathered us all for one purpose —
+         to protect Sanatan and the saints."
+
+CLIP 7D
+TIME:    00:27:19 -> 00:27:43   (~0:24)
+CHANGED: NO
+WHAT'S IN IT: Naga Baba. All Sanatanis/saints should unite and take a vow from this
+         holy ground in support of "Kashi Maharaj's" great endeavour — the most
+         beautiful gathering organised anywhere so far.
+
+
+
+################################################################################
+FILE: captions_2bhgDE-mgoY.txt
+VIDEO 2 — गौशाला के लिए 20% ज़मीन की मांग | 2024-09-17
+Confirmed clips: 26 (24 main + 2.3b + 2.13)  + 2A–2D  (+ optional 2E)
+################################################################################
+
+CLIP 2.1
+TIME:    00:10:15 -> 00:14:15   (~4:00)
+CHANGED: YES
+WHY:     Start trimmed from 00:09:10 (first ~70s was his greeting; first name at
+         00:10:21).
+WHAT'S IN IT: Mahant Ram Kripa Das Naga Baba (Gujarat). Thanks Kashinath Mishra Ji
+         for the beautiful & grand event; his campaign needs everyone's support;
+         "his time is precious but out of love he gives distant saints a chance to
+         speak."
+
+CLIP 2.2
+TIME:    00:17:23 -> 00:18:32   (~1:09)
+CHANGED: NO
+WHAT'S IN IT: Deen Dayal Ji (Kolkata). Credits Kashinath Baba for bringing saints
+         from 32 states; amplifies his unity message; sang a song for the occasion.
+
+CLIP 2.3
+TIME:    00:27:09 -> 00:30:08   (~2:59)
+CHANGED: NO
+WHAT'S IN IT: Sant Shiromani Mahamandleshwar (Ujjain). Calls him "Vishwanath Ji —
+         the architect of this programme"; "blessed are his parents!"; his work
+         reaches worldwide; the rain-prophecy story (rain came when they entered,
+         stopped when they left).
+
+CLIP 2.3b   (ADDED THIS PASS)
+TIME:    00:34:50 -> 00:35:15   (~0:25)
+CHANGED: YES — NEW CLIP ADDED
+WHY:     This strong line (same speaker, later in his speech) was previously not
+         cut as a clip. Added.
+WHAT'S IN IT: "Who will bring about the nation's welfare? Kashinath Ji certainly
+         will — because he has strengthened the organisation."
+
+CLIP 2.5
+TIME:    00:39:25 -> 00:41:00   (~1:35)
+CHANGED: NO
+WHAT'S IN IT: Mahamandleshwar Swami Ramgiri Ji ("Danda wale Baba", Ujjain). "Many
+         many thanks/sadhuvad to Kashinath Ji Pandit Shri for holding this event."
+
+CLIP 2.6
+TIME:    00:55:55 -> 00:58:18   (~2:23)
+CHANGED: NO
+WHAT'S IN IT: Acharya Ranjan Krishna Maharaj (Vrindavan). Addresses Kashinath
+         Mishra Ji directly as the leader of Vishwa Sanatan Dharma seva; asks him
+         to build a permanent platform.
+
+CLIP 2.7
+TIME:    01:06:41 -> 01:07:10   (~0:29)
+CHANGED: NO
+WHAT'S IN IT: Sant Maharaj (Maharashtra). "Kashinath Ji Mishra has gathered all
+         these sadhus, mahamandleshwars and saints together."
+
+CLIP 2.8
+TIME:    01:10:28 -> 01:11:15   (~0:47)
+CHANGED: NO
+WHAT'S IN IT: Ramesha Anand Giri Maharaj (Maharashtra). His seva — "comes at 11 PM
+         to ask if we've eaten"; praises his Bhavishya-Puran knowledge.
+
+CLIP 2.9
+TIME:    01:21:53 -> 01:23:12   (~1:19)
+CHANGED: NO
+WHAT'S IN IT: Gopal Nand Giri Maharaj (Maharashtra). "Kashinath Mishra Ji Pandit Ji
+         built this organisation"; (Marathi) "he gave everyone here an opportunity."
+
+CLIP 2.10
+TIME:    01:19:00 -> 01:19:40   (~0:40)
+CHANGED: NO  (note: this occurs BEFORE 2.9 on the timeline — listed out of order)
+WHAT'S IN IT: Mahadev Ji Maharaj. Garland metaphor — "like a gardener strings many
+         flowers into one garland, Kashinath Baba called all saints/sects and put
+         that garland around everyone's neck."
+
+CLIP 2.11
+TIME:    01:49:18 -> 01:49:41   (~0:23)
+CHANGED: NO
+WHAT'S IN IT: Young saint leads a JAIKARA — "Pandit Kashinath Mishra ki Jai!" —
+         because "he has gone ahead, and if we all walk with him, Sanatan will rise."
+
+CLIP 2.12
+TIME:    01:57:14 -> 01:58:02   (~0:48)
+CHANGED: NO
+WHAT'S IN IT: Warkari Sant (Maharashtra). Names "Pandit Kashinath Ji Mishra";
+         compares him to Shivaji's Hiroji Indulkar — Jagannath gave him the
+         responsibility to advance dharma, as Shivaji gave Hiroji Raigad Fort.
+
+CLIP 2.13   (ADDED THIS PASS)
+TIME:    02:12:33 -> 02:14:18   (~1:45)
+CHANGED: YES — NEW CLIP ADDED
+WHY:     Filled the previously-uncovered 02:12–02:15 gap (speaker just before 2.15).
+WHAT'S IN IT: Marathi Warkari Sant. Invites Kashinath Maharaj to Maharashtra to be
+         honoured; "by Jagannath's grace you are a jagadguru — by Kashinath
+         Bhagwan's doing, all the saints are being united." (mostly Marathi)
+
+CLIP 2.14
+TIME:    02:07:32 -> 02:08:23   (~0:51)
+CHANGED: NO
+WHAT'S IN IT: Pandit Shri (from the manch). "Lord Jagannath Himself gave Kashinath
+         Mishra Ji the dayitva (divine responsibility) to expand Vishwa Sanatan Dharma."
+
+CLIP 2.15
+TIME:    02:16:23 -> 02:18:56   (~2:33)
+CHANGED: NO
+WHAT'S IN IT: Sant Maharaj (Bateshwar/Braj). Flag metaphor — the flag of Sanatan
+         was falling; "Kashinath Ji raised it"; "we'll walk the line he draws for us."
+
+CLIP 2.16
+TIME:    02:22:52 -> 02:24:23   (~1:31)
+CHANGED: NO
+WHAT'S IN IT: Sudarshan Acharya (Bengal/Kolkata). Calls him SHIVA'S AMSHA — "one
+         who can organise such a massive gathering is an embodiment of Shiva"; bows
+         to the mother who carried him.
+
+CLIP 2.17
+TIME:    02:34:06 -> 02:34:56   (~0:50)
+CHANGED: NO
+WHAT'S IN IT: Sadhvi Mata (Maharashtra). "India knew four Naths — Kashi Vishwanath,
+         Badrinath, Kedarnath… " — effectively names Kashinath Ji as a 5th, the
+         dharma-prachaarak whose prophecies come 100% true.
+
+CLIP 2.18
+TIME:    02:40:18 -> 02:40:42   (~0:24)
+CHANGED: NO
+WHAT'S IN IT: Warkari Sant (Maharashtra). "May God give Pandit Mishra Ji a very long
+         life and let this dharma-work happen through his hands."
+
+CLIP 2.19
+TIME:    02:44:51 -> 02:45:12   (~0:21)
+CHANGED: NO
+WHAT'S IN IT: Maharashtra Sant Sabha rep. "Heartfelt pranam to Pandit Mishra who
+         created this union."
+
+CLIP 2.20  ⭐
+TIME:    02:59:49 -> 03:01:53   (~2:04)
+CHANGED: NO
+WHAT'S IN IT: Maharashtra Sant (25 yrs dharma seva). The most extreme praise of all
+         — "I feel Mishra Ji is KALKI BHAGWAN! Kaliyug is ending, Satyug beginning;
+         we'll work together with Kashinath Mishra."
+
+CLIP 2.21
+TIME:    03:10:01 -> 03:11:05   (~1:04)
+CHANGED: NO
+WHAT'S IN IT: Nirmal Devdas Ji Mahamandleshwar. Lamp metaphor — "you poured ghee and
+         camphor into the dimming lamp of Sanatan; now watch the light spread."
+
+CLIP 2.22
+TIME:    03:16:09 -> 03:17:53   (~1:44)
+CHANGED: NO
+WHAT'S IN IT: Kumareshwar Giri Ji Maharaj (Gujarat). Connects a 600-year prophecy to
+         him — "the one who will protect Sanatan is not a mortal but Bhagwan — and
+         he, Shrinath Mishra Ji, has come to Odisha."
+
+CLIP 2.23
+TIME:    03:20:01 -> 03:20:43   (~0:42)
+CHANGED: NO
+WHAT'S IN IT: Kiran Swami (Sahayata International). "Because of Kashinath Mishra Ji's
+         vision and hard work we are all gathered here."
+
+CLIP 2.24  ⭐
+TIME:    03:30:03 -> 03:39:01   (~8:58)
+CHANGED: NO
+WHAT'S IN IT: Mahamandleshwar (Surat). Longest tribute — extended Hanuman metaphor:
+         "there is no one like Kashinath Mishra to AWAKEN people; Kashi Vishwanath
+         awakened him like Hanuman"; blessed is his mother; "Kashi Vishwanath's
+         whole team stands with you."
+
+CLIP 2A
+TIME:    01:29:20 -> 01:30:20   (~1:00)
+CHANGED: NO
+WHAT'S IN IT: A saint formally proposes that the assembly give Chairman "Vishwanath
+         Pandit Ji Maharaj" a Sant Upadhi (saintly title).
+
+CLIP 2B
+TIME:    01:46:40 -> 01:47:05   (~0:25)
+CHANGED: NO
+WHAT'S IN IT: "We were so moved by Pandit Ji's bhajan, as if love had awakened in us."
+
+CLIP 2C
+TIME:    02:27:30 -> 02:28:50   (~1:20)
+CHANGED: NO
+WHAT'S IN IT: Kolkata saint (Digdarshan Ashram). Credits Kashinath Ji's YouTube
+         channel for spreading the message across India; that's how his ashram joined.
+
+CLIP 2D
+TIME:    02:46:35 -> 02:47:50   (~1:15)
+CHANGED: NO
+WHAT'S IN IT: Maharashtra saint (Gau Raksha awardee). "Though God is formless, He
+         takes form through saints like Mishra Ji to protect Sanatan"; addresses
+         Pandit Ji directly on protecting saints.
+
+CLIP 2E   (OPTIONAL — not counted)
+TIME:    02:50:25 -> 02:51:48
+CHANGED: flagged optional
+WHY:     Auto-captions not clean enough to confirm it is definitively addressed to
+         Mishra Ji personally — kept as an optional ceremony/honor mention.
+
+OTHER FLAGGED MENTIONS IN VIDEO 2 (checked, not cut as clips):
+ - 01:42:41  "काशीनाथ भगवान महाराज की जय" — only a jaikara inside a list. OPTIONAL.
+ - 02:56:31  "काशी मिश्रा जी" — NOT praise; a crowd-management moment (someone
+             unwell). Excluded.
+ - 03:13:03  "हमारे इस आयोजन के आयोजक मिश्र जी" — brief organizer-credit inside the
+             Karpatri-Ji story. OPTIONAL (short).
+
+
+
+================================================================================
+QUICK CHANGE TALLY
+================================================================================
+Video 6: 2 clips — both retimed.
+Video 5: 5 clips — 1 minor, 3 trimmed, 1 split into 2.
+Video 3: 14 clips — 1 removed (3.2), several split, several trimmed; 3.4 unchanged.
+Video 1: 16 saint + 2 host — most retimed/split; 3 removed; 1 attribution fixed.
+Video 7: ~18 clips — 7.1/7.2/7.3/7B retimed, 7A split, 7.14 flagged; Brahmanand
+         block (7.4–7.13) verified unchanged.
+Video 2: 26 + extras — 2.1 trimmed; 2.3b & 2.13 ADDED; rest verified unchanged.
+================================================================================
+END OF MASTER CLIP LIST
+================================================================================

@@ -1,96 +1,88 @@
-✅ VIDEO 5 — पं० काशीनाथ मिश्र जी का अभिभाषण | अखिल भारतीय संत सम्मेलन | जगन्नाथ पूरी
-Video ID: CkZwAyimScE
-Date: 2024-09-15 (Day 1 — Opening Session / Pandit Ji's Address)
-Total Lines: 2295
-Duration: ~02:46:25
-Clips Found: 4
+================================================================================
+VIDEO 5 — VERIFIED CLIPS ABOUT PANDIT KASHINATH MISHRA JI
+================================================================================
+Video ID: CkZwAyimScE  |  Date: 2024-09-15  |  Day 1 — Pandit Ji's Address
+NOTE: Most of this video is Pandit Ji's OWN address (not eligible). The clips
+below are OTHER saints praising him, which only begin after ~01:41:00.
+Verification: every clip re-checked line-by-line; timings corrected; bloated
+ranges trimmed to the words that are actually about Pandit Ji.
+CONFIRMED CLIPS: 5 (5.1, 5.2, 5.3, 5.4a, 5.4b)
 
-Clip 5.1
-Field	Detail
-⏱ Start	01:41:01
-⏱ End	01:45:34
-🙏 Saint Name	Ramgiri Ji Maharaj (and associate saint from Ujjain/Madhya Pradesh)
-📍 Place	Ujjain, Madhya Pradesh
-🏷 Overlay Text	Ramgiri Ji Maharaj • Ujjain, Madhya Pradesh
-📝 What they said (summary)	Says "it is a matter of great fortune" that Maharaj Kashinath Ji has made this effort for all saints and for sanatan dharma. Calls him "Vishwanath Ji Maharaj — bahut hi achche pravakta" (very good orator). Praises his vision for gathering saints from 30 states and 7 union territories. Says 40-50 people came from Madhya Pradesh alone. Declares "we are all with him." काशीनाथ जी ने जो प्रयास किया — बड़े सौभाग्य की बात — 30 राज्य से संतों को एकत्रित किया — हम सब उनके साथ हैं।
-Key Quote(s):
+──────────────────────────────────────────────────────────────────────────────
+CLIP 5.1  |  Duration ~4:35  |  ✅ STRONG
+⏱ 01:41:01 → 01:45:36
+🙏 Saint: Ramgiri Ji Maharaj (Ujjain group)
+📍 Place: Ujjain, Madhya Pradesh
+🏷 Overlay: Ramgiri Ji Maharaj • Ujjain, Madhya Pradesh
+📝 About Pandit Ji: "It is great fortune that Maharaj Kashinath Ji has made this
+   effort for all saints"; praises him as Vishwanath Ji, a fine Bhagwat/Ram-Katha
+   orator whose vision is specially for saints; notes he gathered saints from 30
+   states and 7 union territories (40–50 from MP alone) and declares "we are all
+   with him."
+💬 Verbatim:
+   01:41:01  "देखिए बड़े सौभाग्य की बात है आज महाराज काशीनाथ जी ने जो प्रयास किया है"
+   01:43:19  "आज जो काशी नाथ जी महाराज ने जो यहां हमारे लिए ये आयोजन रखा है ... 30 राज्य से और सात केंद्र शासित अंचल से"
+🔧 Timing: essentially unchanged (end +2s to finish "जय श्री राम").
 
-"बड़े सौभाग्य की बात है आज महाराज काशीनाथ जी ने जो प्रयास किया है सभी संत वृंद के लिए ब्रह्म समाज के लिए और धर्म समाज के लिए"
-Translation: "It is a matter of great fortune that today Maharaj Kashinath Ji has made this effort for all saints, for Brahma Samaj and Dharma Samaj."
+──────────────────────────────────────────────────────────────────────────────
+CLIP 5.2  |  Duration ~0:17  |  ✅ VALID — brief direct acknowledgement
+⏱ 01:51:03 → 01:51:20
+🙏 Saint: Warkari Sampradaya Sant (Dnyaneshwar–Tukaram lineage)
+📍 Place: Maharashtra
+🏷 Overlay: Warkari Sampradaya Sant • Maharashtra
+📝 About Pandit Ji: Directly thanks "Shraddheya Shri Kashinath Ji Maharaj Ji" for
+   the invitation and notes 100+ Warkari followers came from Maharashtra.
+💬 Verbatim:
+   01:51:07  "मुझे यहां पर आमंत्रित करने के लिए श्रद्धेय श्री काशीनाथ जी महाराज जी का मैं धन्यवाद अदा करता हूं ... कम से कम 100 लोग महाराष्ट्र से यहां पर आए हैं"
+🔧 Timing fix: was 01:50:13–01:55:28 (~5 min). The rest of that range is generic
+   Warkari/Shivaji/Bhavishya-Puran discourse with NO mention of Pandit Ji, so it
+   was cut. Only the named thank-you (>10s) is kept.
 
-"आपने विश्वनाथ जी महाराज — बहुत ही अच्छे प्रवक्ता है भागवत करते हैं राम कथा करते हैं मगर उनके मन में जो विचार आया है वह संतों के लिए विशेष करके"
-Translation: "Vishwanath Ji Maharaj — a very fine orator, does Bhagwat and Ram Katha, but the vision that arose in his mind is especially for the benefit of saints."
+──────────────────────────────────────────────────────────────────────────────
+CLIP 5.3  |  Duration ~4:52  |  ✅ STRONG
+⏱ 02:00:50 → 02:05:42
+🙏 Saint: Gujarat Sant (name unclear)
+📍 Place: Gujarat
+🏷 Overlay: Gujarat Sant • Gujarat
+📝 About Pandit Ji: "Yatha naam tatha gun — Shri Vishwanath Ji Mishra Ji"; credits
+   Mishra Ji and his whole team for everyone's Jagannath darshan; repeatedly says
+   "as Pujya Mishra Ji said…", and that "Mishra Ji invited you all for THIS cause."
+   (Contains general Sanatan-dharma context between the named mentions.)
+💬 Verbatim:
+   02:00:55  "यथा नाम तथा गुण श्री विश्वनाथ जी मिश्रा जी को"
+   02:01:14  "जो दर्शन का लाभ मिला उसका श्रेय मिश्रा जी को और उनकी समस्त टीम को"
+   02:05:17  "इसी कार्य के लिए हमारे मिश्रा जी ने आप सबको आमंत्रित किया है"
+🔧 Timing fix: was 02:00:44–02:06:08; trimmed tail (post-02:05:42 is generic).
 
-"काशी नाथ जी महाराज ने जो यहां हमारे लिए ये आयोजन रखा है इसमें कितने प्रदेश के लोगों को बुलाया — 30 राज्य से और सात केंद्र शासित अंचल से"
-Translation: "Kashinath Ji Maharaj has organized this event for us — called people from 30 states and 7 union territories."
+──────────────────────────────────────────────────────────────────────────────
+CLIP 5.4a  |  Duration ~0:54  |  ✅ VALID
+⏱ 02:30:13 → 02:31:07
+🙏 Saint: Surat Sant (Sitaram Ji / Vishweshwar Maharaj group)
+📍 Place: Surat, Gujarat
+🏷 Overlay: Surat Sant • Surat, Gujarat
+📝 About Pandit Ji: Names Kashinath Mishra Ji as the SUTRADHAR (director/
+   mastermind) of this divine program, then offers dandavat pranam.
+💬 Verbatim:
+   02:30:24  "एक कार्यक्रम के सूत्रधार परम आदरणीय श्री काशीनाथ जी मिश्रा जी"
 
-Clip 5.2
-Field	Detail
-⏱ Start	01:50:13
-⏱ End	01:55:28
-🙏 Saint Name	Warkari Sampradaya Saint (Maharashtra)
-📍 Place	Maharashtra
-🏷 Overlay Text	Warkari Sampradaya Sant • Maharashtra
-📝 What they said (summary)	Representative of the Warkari Sampradaya (devotional tradition of Maharashtra — Dnyaneshwar, Tukaram lineage). Thanks "Shraddheya Shri Kashinath Ji Maharaj Ji" for inviting him. Says 100+ people came from Maharashtra for this. Praises the "shubh karya" (auspicious work). काशीनाथ जी महाराज जी का धन्यवाद — 100 लोग महाराष्ट्र से आए — बहुत शुभ कार्य।
-Key Quote(s):
-
-"मुझे यहां पर आमंत्रित करने के लिए श्रद्धेय श्री काशीनाथ जी महाराज जी का मैं धन्यवाद अदा करता हूं"
-Translation: "I express my gratitude to the revered Shri Kashinath Ji Maharaj Ji for inviting me here."
-
-"हमारे वारकरी संप्रदाय के कम से कम 100 लोग महाराष्ट्र से यहां पर आए हैं"
-Translation: "At least 100 people from our Warkari Sampradaya have come from Maharashtra."
-
-Clip 5.3
-Field	Detail
-⏱ Start	02:00:44
-⏱ End	02:06:08
-🙏 Saint Name	Gujarat Sant (name unclear from captions)
-📍 Place	Not specified
-🏷 Overlay Text	Gujarat Sant • India
-📝 What they said (summary)	Uses the phrase "YATHA NAAM TATHA GUN" (as is the name, so are the qualities) for "Shri Vishwanath Ji Mishra Ji." Gives full credit to Mishra Ji and his entire team for enabling darshan of Jagannath Ji. Says "Pujya Mishra Ji ka vaktavya suna" — heard Mishra Ji's address and was moved. References Mishra Ji's warning about saints' persecution. Says "issi karya ke liye hamare Mishra Ji ne aap sabko aamantrit kiya hai" — Mishra Ji invited everyone FOR THIS sacred purpose. "यथा नाम तथा गुण श्री विश्वनाथ जी मिश्रा जी" — जगन्नाथ दर्शन का श्रेय मिश्रा जी और उनकी टीम को — इसी कार्य के लिए मिश्रा जी ने सबको आमंत्रित किया।
-Key Quote(s):
-
-"यथा नाम तथा गुण श्री विश्वनाथ जी मिश्रा जी को — जननी जन तो भक्त जन के दाता"
-Translation: "As is the name, so are the qualities — Shri Vishwanath Ji Mishra Ji — giver to all devotees."
-
-"हम सबको भगवान श्री जगन्नाथ जी का जो दर्शन का लाभ मिला उसका श्रेय मिश्रा जी को और उनकी समस्त टीम को"
-Translation: "The credit for all of us getting the darshan of Lord Jagannath goes to Mishra Ji and his entire team."
-
-"हमने पूज्य मिश्रा जी का वक्तव्य सुना — हम संध्या से दूर हो गए गायत्री से दूर हो गए"
-Translation: "We heard revered Mishra Ji's address — we have drifted from Sandhya prayers, from Gayatri..."
-
-"इसी कार्य के लिए हमारे मिश्रा जी ने आप सबको आमंत्रित किया है"
-Translation: "It is for THIS very purpose that our Mishra Ji has invited all of you."
-
-Clip 5.4 — ⭐ "THE AGENDA IS HEAVEN ON EARTH"
-Field	Detail
-⏱ Start	02:29:42
-⏱ End	02:40:45
-🙏 Saint Name	Surat Sant (Sitaram Ji Maharaj / Vishweshwar Maharaj group)
-📍 Place	Surat, Gujarat
-🏷 Overlay Text	Surat Sant • Surat, Gujarat
-📝 What they said (summary)	Calls Kashinath Ji Mishra Ji the "SUTRADHAR" (mastermind/director) of this divine program. Says he READ the entire 3-day agenda prepared by Kashinath Mishra Ji and declares: "Agar woh agenda phali-phoot ho gaya toh aapke liye SWARG YAHIN PAR HAI — itne badhiya agenda!" (If that agenda bears fruit, HEAVEN IS RIGHT HERE — that's how brilliant the agenda is!). Repeats twice that Kashinath Ji's agenda must be taken seriously by all. Says "vaastavmein sabko ghor karne ki aavashyakta hai" (truly everyone needs to deeply contemplate it). Pledges "tan man dhan se jude rahenge" (connected with body, mind and wealth). काशीनाथ जी मिश्रा जी कार्यक्रम के सूत्रधार — उनका एजेंडा पढ़ा — "अगर वो एजेंडा फली-फूत हो गया तो आपके लिए स्वर्ग यहीं पर है!" — तन मन धन से जुड़े रहेंगे।
-Key Quote(s):
-
-"एक कार्यक्रम के सूत्रधार परम आदरणीय श्री काशीनाथ जी मिश्रा जी"
-Translation: "The director/mastermind of this program — the most revered Shri Kashinath Ji Mishra Ji."
-
-"काशीनाथ मिश्रा जी ने जो एजेंडा बनाया है — बहुत ही बढ़िया है — मैंने सारा पढ़ा तीनों दिन का — अगर वो एजेंडा फली-फूत हो गया तो आपके लिए स्वर्ग यहीं पर है — इतने बढ़िया एजेंडा उसके अंदर है!"
-Translation: "The agenda Kashinath Mishra Ji has prepared — it is BRILLIANT — I read all 3 days — if that agenda bears fruit, HEAVEN IS RIGHT HERE FOR YOU — that's how brilliant the agenda is!"
-
-"जो काशीनाथ जी मिश्रा जी ने जो एक भविष्य को देखते हुए जो एजेंडा मुद्दा है तैयार किया है वास्तव में सबको घोर करने की आवश्यकता है"
-Translation: "The agenda that Kashinath Ji Mishra Ji has prepared looking at the future — truly everyone needs to deeply contemplate it."
-
-"ऐसे सुंदर कार्यों के माध्यम से भारत के विभिन्न राज्यों में से अपने संत समाज को बुला कर के — हम भी इसमें तन मन धन से जुड़े रहेंगे"
-Translation: "Through such beautiful initiatives, calling sant samaj from various states of India — we too will remain connected with body, mind, and wealth."
-
-✅ VIDEO 5 COMPLETE
-Metric	Value
-Total Clips	4 (numbered 5.1 through 5.4)
-Total Lines Read	2295
-Duration Covered	02:46:25
-Unique Saints	4
-Most Notable Clip	5.4 — Surat Sant ("Agenda = Heaven on Earth", called Mishra Ji the SUTRADHAR)
+──────────────────────────────────────────────────────────────────────────────
+CLIP 5.4b  |  Duration ~3:48  |  ⭐ FLAGSHIP — "The agenda is heaven on earth"
+⏱ 02:36:58 → 02:40:46
+🙏 Saint: Surat Sant (same speaker)
+📍 Place: Surat, Gujarat
+🏷 Overlay: Surat Sant • Surat, Gujarat
+📝 About Pandit Ji: Says he read Kashinath Mishra Ji's entire 3-day agenda and
+   declares "if that agenda bears fruit, HEAVEN IS RIGHT HERE — that's how
+   brilliant it is!" Repeats that his forward-looking agenda must be deeply
+   contemplated by all, thanks him, and pledges "tan man dhan se jude rahenge,"
+   ending in a jaikara.
+💬 Verbatim:
+   02:37:06  "काशीनाथ मिश्रा जी ने जो एजेंडा बनाया है ... अगर वो एजेंडा फली फूत हो गया तो आपके लिए स्वर्ग यहीं पर है"
+   02:39:52  "जो काशीनाथ जी मिश्रा जी ने ... एजेंडा ... तैयार किया है वास्तव में सबको घोर करने की आवश्यकता है"
+   02:40:39  "हम भी इसमें तन मन धन से जुड़े रहेंगे"
+🔧 Timing fix: the original 5.4 (02:29:42–02:40:45, ~11 min) was mostly generic
+   Hindu-unity discourse. Split into 5.4a (the "sutradhar" naming) and 5.4b (the
+   agenda/heaven section), dropping the generic middle.
 
 
 ================================================================================

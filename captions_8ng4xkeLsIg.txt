@@ -1,7 +1,28 @@
+================================================================================
+VIDEO 7 — VERIFICATION PASS (timings corrected; Pandit Kashinath Mishra Ji)
+================================================================================
+Video ID: 8ng4xkeLsIg  |  Date: 2024-09-15  |  Day 1 — Second Session
+Every clip below was re-checked line-by-line against the transcript. Summary of
+corrections made in this pass:
+• 7.1  end trimmed 00:12:09 → 00:11:54 (rest is generic Sanatan talk).
+• 7.2  start trimmed 00:23:21 → 00:23:28 (to the actual "Kashinath Ji" line).
+• 7.3  retimed 00:39:51–00:40:37 → 00:40:08–00:40:43 (name is at 00:40:15).
+• 7.4–7.13 are all ONE continuous ~28-min speech by Brahmanand Guru Ji; densely
+  about Mishra Ji — kept as distinct soundbites, timings verified.
+• 7.14 flagged INDIRECT — it says "Mahapurush who created this Kumbh" and does
+  NOT name Pandit Ji.
+• 7A  was a bloated ~6-min range with ~5 min of generic Sanatan-permanence talk
+  between two mentions → split into two tight segments (see 7A).
+• 7B  tightened 02:15:45–02:19:30 → 02:17:55–02:18:28 (the rest is a Vedas
+  discourse that does not mention him).
+• No clip under 10s remains. "Sridhar Mishra/Bengal" (00:06:48) and "Devayat
+  Pandit" (02:11:12) are different people, NOT Pandit Ji — excluded.
+================================================================================
+
 ✂️ Clip 7.1
 Field	Detail
-⏱ Start	00:11:13
-⏱ End	00:12:09
+⏱ Start	00:11:11
+⏱ End	00:11:54
 🙏 Saint Name	Bengali/Odia Saint (name garbled in auto-captions — introduced from "भगवान चैतन्य के अति पावन पवित्र भूमि")
 📍 Place	Chaitanya Mahaprabhu Kshetra, Bengal/Odisha
 🏷 Overlay Text	`Bengali Saint
@@ -14,8 +35,8 @@ Hindi (Auto-Caption)	English Translation
 "दैव शक्ति ना थकले ए काज होय ना संभव होय ना"	"Without divine power this work would not be possible"
 ✂️ Clip 7.2
 Field	Detail
-⏱ Start	00:23:21
-⏱ End	00:23:48
+⏱ Start	00:23:28
+⏱ End	00:23:50
 🙏 Saint Name	Naga Baba (Guru: Nityanand Maharaj)
 📍 Place	Kamakhya, Assam
 🏷 Overlay Text	`Naga Baba
@@ -27,8 +48,8 @@ Hindi (Auto-Caption)	English Translation
 "जो सनातन धर्म का ऊपर हानि हो रहे सनातन धर्म का ऊपर अत्याचार हो रहे इसको लिए हम कुछ करें"	"The harm being done to Sanatan Dharma, the atrocities — we must do something about this"
 ✂️ Clip 7.3
 Field	Detail
-⏱ Start	00:39:51
-⏱ End	00:40:37
+⏱ Start	00:40:08
+⏱ End	00:40:43
 🙏 Saint Name	Dr. Shiv Yogi Shivacharya Ji (Jagadguru Renukacharya Panchacharya tradition)
 📍 Place	Pan-India Veerashaiva Tradition (32 States)
 🏷 Overlay Text	`Dr. Shiv Yogi Shivacharya
@@ -176,8 +197,8 @@ Hindi (Auto-Caption)	English Translation
 "बोलो भारत माता की... बोलो जगन्नाथ की... बोलो श्री राम हनुमंत की... बोलो सीता रामचंद्र की... बोलो मिश्रा जी की — बोलो जय!"	"Chant: Bharat Mata ki Jai... Jagannath ki Jai... Shri Ram Hanumant ki Jai... Sita Ramchandra ki Jai... MISHRA JI KI — JAI!"
 ✂️ Clip 7.14
 Field	Detail
-⏱ Start	01:55:04
-⏱ End	01:56:14
+⏱ Start	01:55:00
+⏱ End	01:56:14  [⚠ INDIRECT — "Mahapurush who created this Kumbh"; does NOT name Pandit Ji]
 🙏 Saint Name	Mahamandaleshwar Seetaram Das Ji
 📍 Place	Surat, Gujarat
 🏷 Overlay Text	`Mahamandaleshwar Seetaram Das Ji
@@ -194,8 +215,12 @@ VERIFICATION-PASS ADDITIONS (CONFIRMED)
 
 Clip 7A
 Field	Detail
-⏱ Start	02:08:50
-⏱ End	02:15:35
+⏱ Start	02:08:55
+⏱ End	02:09:25   [SEGMENT 1 of 2]
+⏱ Start	02:14:40
+⏱ End	02:15:35   [SEGMENT 2 of 2 — "Shri Kashinath Bhagwan ki jai"]
+⚠ The original 02:08:50–02:15:35 had ~5 min of generic Sanatan-permanence talk
+   between the two Mishra-Ji mentions; excluded. Use the two segments above.
 🙏 Saint Name	Name unclear (saint speaking on the permanence of Sanatan Dharma)
 📍 Place	Place not mentioned
 🏷 Overlay Text	Saint • India
@@ -213,8 +238,8 @@ Translation: "Victory to Shri Kashinath Bhagwan."
 
 Clip 7B — Harivansh Rai (International Kathavachak, Surat) — opening praise
 Field	Detail
-⏱ Start	02:15:45
-⏱ End	02:19:30
+⏱ Start	02:17:55
+⏱ End	02:18:28
 🙏 Saint Name	Harivansh Rai Brahmachari (international Kathavachak from Surat)
 📍 Place	Surat, Gujarat
 🏷 Overlay Text	Harivansh Rai Brahmachari • Surat
