@@ -1,6 +1,27 @@
+================================================================================
+VIDEO 2 — VERIFICATION PASS (timings reviewed; Pandit Kashinath Mishra Ji)
+================================================================================
+Video ID: 2bhgDE-mgoY  |  Date: 2024-09-17
+Every clip below was cross-checked against the transcript's actual "काशीनाथ/
+मिश्रा/पंडित" mentions. Findings:
+• All 24 main clips + 2A–2D genuinely name/praise Pandit Ji. No clip is under 10s,
+  so none were removed on length.
+• 2.1 start trimmed 00:09:10 → 00:10:15 (the first ~70s is his greeting/intro;
+  his first "काशीनाथ मिश्रा जी" line is at 00:10:21).
+• Ordering note: CLIP 2.10 (01:19:00) actually occurs BEFORE CLIP 2.9 (01:21:53)
+  on the timeline — they are listed out of order below.
+• UNCOVERED mentions worth reviewing (genuine, but not yet cut as clips):
+    00:34:54  "देश का कल्याण कौन करेगा? काशीनाथ जी जरूर करेंगे" (strong)
+    01:42:51 / 01:43:30  "काशीनाथ भगवान" (addressed during a felicitation)
+    02:12:36–02:15:32  "काशीनाथ महाराज जी तुम आओ / श्री काशीनाथ भगवान"
+                        (likely the lead-in of the CLIP 2.15 speaker)
+    02:56:31  "काशी मिश्रा जी"   |   03:13:03  "हमारे इस आयोजन के आयोजक मिश्र जी"
+  These are flagged for the editor; widen the nearest clip or cut new ones if wanted.
+================================================================================
+
 CLIP 2.1 — महंत राम कृपा दास नागा बाबा (Gujarat)
 Field	Value
-Start	00:09:10
+Start	00:10:15
 End	00:14:15
 Saint	महंत राम कृपा दास नागा बाबा
 Place	गोकड़ा हनुमान जी मंदिर, गुजरात
