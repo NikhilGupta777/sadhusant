@@ -4,19 +4,55 @@ VIDEO 2 — VERIFICATION PASS (timings reviewed; Pandit Kashinath Mishra Ji)
 Video ID: 2bhgDE-mgoY  |  Date: 2024-09-17
 Every clip below was cross-checked against the transcript's actual "काशीनाथ/
 मिश्रा/पंडित" mentions. Findings:
-• All 24 main clips + 2A–2D genuinely name/praise Pandit Ji. No clip is under 10s,
-  so none were removed on length.
+• All 24 main clips + 2A–2D genuinely name/praise Pandit Ji; two more were added
+  this pass (2.3b, 2.13 — see below). No clip is under 10s, so none were removed
+  on length.
 • 2.1 start trimmed 00:09:10 → 00:10:15 (the first ~70s is his greeting/intro;
   his first "काशीनाथ मिश्रा जी" line is at 00:10:21).
 • Ordering note: CLIP 2.10 (01:19:00) actually occurs BEFORE CLIP 2.9 (01:21:53)
   on the timeline — they are listed out of order below.
-• UNCOVERED mentions worth reviewing (genuine, but not yet cut as clips):
-    00:34:54  "देश का कल्याण कौन करेगा? काशीनाथ जी जरूर करेंगे" (strong)
-    01:42:51 / 01:43:30  "काशीनाथ भगवान" (addressed during a felicitation)
-    02:12:36–02:15:32  "काशीनाथ महाराज जी तुम आओ / श्री काशीनाथ भगवान"
-                        (likely the lead-in of the CLIP 2.15 speaker)
-    02:56:31  "काशी मिश्रा जी"   |   03:13:03  "हमारे इस आयोजन के आयोजक मिश्र जी"
-  These are flagged for the editor; widen the nearest clip or cut new ones if wanted.
+• RESOLVED in this pass — two genuine missed clips were cut and added below
+  (see "ADDED IN THIS PASS"): CLIP 2.3b (00:34:50) and CLIP 2.13 (02:12:33).
+• Remaining flagged mentions, after checking the audio context:
+    01:42:41  "काशीनाथ भगवान महाराज की जय" — only a jaikara inside a list; OPTIONAL.
+    02:56:31  "काशी मिश्रा जी" — NOT praise; it is a crowd-management moment
+              (someone unwell, "बैठिए, भगवान ने बचा लिया"). Excluded.
+    03:13:03  "हमारे इस आयोजन के आयोजक मिश्र जी" — brief organizer-credit inside
+              the Karpatri-Ji-Maharaj story; OPTIONAL (short).
+
+ADDED IN THIS PASS
+──────────────────
+CLIP 2.3b — संत शिरोमणि महामंडलेश्वर (Ujjain) — "WHO WILL SAVE THE NATION?"
+Field	Value
+Start	00:34:50
+End	00:35:15
+Saint	संत शिरोमणि महामंडलेश्वर (same speaker as CLIP 2.3, continuing)
+Place	उज्जैन
+Overlay	`Sant Shiromani Mahamandleshwar
+Summary: Later in the same speech he asks rhetorically who will bring about the
+nation's welfare and answers it himself — Kashinath Ji certainly will, because he
+has strengthened the (saints') organization.
+Key Quote: "देश का कल्याण कौन करेगा? काशीनाथ जी जरूर करेंगे क्यों इन्होंने संगठन को मजबूत किया है"
+Translation: "Who will bring about the nation's welfare? Kashinath Ji certainly will — because he has strengthened the organisation."
+
+CLIP 2.13 — महाराष्ट्र वारकरी संत (Jog Maharaj / Warkari Shikshan Sanstha)
+Field	Value
+Start	02:12:33
+End	02:14:18
+Saint	महाराष्ट्र वारकरी संत (Warkari Shikshan Sanstha lineage)
+Place	महाराष्ट्र
+Overlay	`Warkari Sant • Maharashtra
+Summary: (Mostly Marathi.) Invites Kashinath Maharaj to come to Maharashtra to be
+honoured by Jog Maharaj's Warkari institution, and declares that by Jagannath's
+grace he is a jagadguru — "by Kashinath Bhagwan's doing, all the saints are being
+united here." Fills the previously-uncovered 02:12–02:15 gap (this is the speaker
+just before CLIP 2.15).
+Key Quotes:
+"महाराष्ट्र में काशीनाथ महाराज जी तुम आओ" (02:12:36)
+Translation: "Kashinath Maharaj Ji, you come to Maharashtra [to be honoured]."
+"जगन्नाथ च कृपेने तुम्ही जगदगुरु है — काशीनाथ भगवान की करण सब संतन की एक करते" (02:14:00)
+Translation: "By Jagannath's grace you are a jagadguru — by Kashinath Bhagwan's doing, all the saints are being united."
+
 ================================================================================
 
 CLIP 2.1 — महंत राम कृपा दास नागा बाबा (Gujarat)
