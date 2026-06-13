@@ -5,6 +5,8 @@ Akhil Bharatiya Sant Sammelan, Jagannath Puri (Sept 2024)
 HOW TO READ EACH ENTRY:
   CLIP        -> clip id
   TIME        -> Start -> End (HH:MM:SS)
+  LINK        -> YouTube link that jumps straight to the clip's START time
+                 (click it and the video begins playing at that moment)
   CHANGED     -> YES or NO  (was the timing/clip changed in the verification pass)
   WHY         -> reason for the change (or why it was left as-is)
   WHAT'S IN IT-> exactly what the saint says about Pandit Ji
@@ -23,6 +25,7 @@ Confirmed clips: 2
 
 CLIP 6.1  ⭐
 TIME:    00:40:34 -> 00:44:28   (~3:54)
+LINK:    https://www.youtube.com/watch?v=7OfFvpvu-Co&t=2434s
 CHANGED: YES
 WHY:     Was 00:40:06–00:44:21. Old start was inside the bhajan and the old end
          cut the closing line. Trimmed start to where he begins addressing the
@@ -35,6 +38,7 @@ WHAT'S IN IT: Vrindavan Kathavachak. Makes the astonishing claim that just as
 
 CLIP 6.2
 TIME:    01:04:56 -> 01:05:48   (~0:52)
+LINK:    https://www.youtube.com/watch?v=7OfFvpvu-Co&t=3896s
 CHANGED: YES
 WHY:     Was 01:04:56–01:08:25. The old end added ~2.5 min of unrelated general
          dharma talk (uttho jawano / Muslim-villages / Kumbh) that never names
@@ -54,6 +58,7 @@ VIDEO 5 — पं० काशीनाथ मिश्र जी का अभ
 
 CLIP 5.1
 TIME:    01:41:01 -> 01:45:36   (~4:35)
+LINK:    https://www.youtube.com/watch?v=CkZwAyimScE&t=6061s
 CHANGED: YES (minor)
 WHY:     Essentially unchanged; end nudged +2s to finish "जय श्री राम".
 WHAT'S IN IT: Ramgiri Ji Maharaj (Ujjain). "It is great fortune that Kashinath Ji
@@ -62,6 +67,7 @@ WHAT'S IN IT: Ramgiri Ji Maharaj (Ujjain). "It is great fortune that Kashinath J
 
 CLIP 5.2
 TIME:    01:51:03 -> 01:51:20   (~0:17)
+LINK:    https://www.youtube.com/watch?v=CkZwAyimScE&t=6663s
 CHANGED: YES
 WHY:     Was 01:50:13–01:55:28 (~5 min). The rest was generic Warkari / Shivaji /
          Bhavishya-Puran discourse with no mention of Pandit Ji. Kept only the
@@ -71,6 +77,7 @@ WHAT'S IN IT: Warkari Sampradaya Sant (Maharashtra). Directly thanks "Shraddheya
 
 CLIP 5.3
 TIME:    02:00:50 -> 02:05:42   (~4:52)
+LINK:    https://www.youtube.com/watch?v=CkZwAyimScE&t=7250s
 CHANGED: YES
 WHY:     Was 02:00:44–02:06:08; trimmed the tail (post-02:05:42 is generic).
 WHAT'S IN IT: Gujarat Sant. "Yatha naam tatha gun — Shri Vishwanath Ji Mishra Ji";
@@ -79,6 +86,7 @@ WHAT'S IN IT: Gujarat Sant. "Yatha naam tatha gun — Shri Vishwanath Ji Mishra 
 
 CLIP 5.4a
 TIME:    02:30:13 -> 02:31:07   (~0:54)
+LINK:    https://www.youtube.com/watch?v=CkZwAyimScE&t=9013s
 CHANGED: YES (split from old 5.4)
 WHY:     Old 5.4 was one 11-min clip mostly of generic Hindu-unity talk. Split
          into 5.4a (the naming) and 5.4b (the agenda), dropping the middle.
@@ -87,6 +95,7 @@ WHAT'S IN IT: Surat Sant. Names Kashinath Mishra Ji the SUTRADHAR (director/
 
 CLIP 5.4b  ⭐
 TIME:    02:36:58 -> 02:40:46   (~3:48)
+LINK:    https://www.youtube.com/watch?v=CkZwAyimScE&t=9418s
 CHANGED: YES (split from old 5.4)
 WHY:     Same split as above; this keeps the agenda/"heaven" section + the pledge.
 WHAT'S IN IT: Surat Sant. "I read Kashinath Mishra Ji's entire 3-day agenda — if
@@ -104,6 +113,7 @@ Confirmed clips: 14  (1 removed)
 
 CLIP 3.1
 TIME:    01:04:43 -> 01:05:16   (~0:33)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=3883s
 CHANGED: YES (minor)
 WHY:     Tightened to the gratitude lines.
 WHAT'S IN IT: Swami Guru Sharanand Ji. Thanks Kashinath Mishra Ji for launching
@@ -118,6 +128,7 @@ WHAT'S IN IT: n/a (removed)
 
 CLIP 3.3
 TIME:    01:22:06 -> 01:29:24   (~7:18)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=4926s
 CHANGED: YES
 WHY:     Was 01:22:40–01:29:21. Start moved earlier to include the "dharma-bheer
          who united everyone" setup that the first mention refers to.
@@ -128,6 +139,7 @@ WHAT'S IN IT: Swami Om Prakash Nand Ji (86+, ex-RSS pracharak). Frames the whole
 
 CLIP 3.4
 TIME:    01:52:34 -> 01:56:36   (~4:02)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=6754s
 CHANGED: NO
 WHY:     Original timing was already accurate.
 WHAT'S IN IT: Digambar Niranjan Girija Ji (Ujjain). Dandavat to "Vishwanath Mishra
@@ -135,6 +147,7 @@ WHAT'S IN IT: Digambar Niranjan Girija Ji (Ujjain). Dandavat to "Vishwanath Mish
 
 CLIP 3.5
 TIME:    01:58:54 -> 01:59:35   (~0:41)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=7134s
 CHANGED: YES
 WHY:     Was 01:58:09–02:02:02; trimmed self-intro and the post-01:59:35 generic
          kalyug-prophecy tail.
@@ -143,6 +156,7 @@ WHAT'S IN IT: Mahamandleshwar Ramdas Maharaj. "As Mishra Ji said…" then thanks
 
 CLIP 3.6a
 TIME:    02:18:16 -> 02:18:36   (~0:20)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=8296s
 CHANGED: YES (split from old 3.6)
 WHY:     Old 3.6 was 10 min, mostly a Ramayana/Ravana discourse. Split into the
          two praise bookends.
@@ -151,6 +165,7 @@ WHAT'S IN IT: Mahant Ram Sharan Das Ji (Gujarat). "Our Shri Mishra Ji has done v
 
 CLIP 3.6b
 TIME:    02:26:50 -> 02:27:46   (~0:56)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=8810s
 CHANGED: YES (split from old 3.6)
 WHY:     Same split; this is the second praise bookend.
 WHAT'S IN IT: Same saint. Praises his simplicity, equal treatment of all, smiling
@@ -158,6 +173,7 @@ WHAT'S IN IT: Same saint. Praises his simplicity, equal treatment of all, smilin
 
 CLIP 3.7a  ⭐
 TIME:    02:32:42 -> 02:43:20   (~10:38)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=9162s
 CHANGED: YES
 WHY:     Old 3.7 ran 02:32:33–02:49:00, but 02:43:20–02:48:30 is the saint's own
          gaushala digression (not about Pandit Ji). Kept the main tribute here.
@@ -168,6 +184,7 @@ WHAT'S IN IT: Vrindavan Sant (Banke Bihari Sevak). LOH PURUSH tribute: honours h
 
 CLIP 3.7b
 TIME:    02:48:30 -> 02:49:02   (~0:32)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=10110s
 CHANGED: YES (split from old 3.7)
 WHY:     The closing blessing, kept separate from the gaushala digression that
          preceded it.
@@ -176,6 +193,7 @@ WHAT'S IN IT: Same saint. "May his will-power always stay constant, may he never
 
 CLIP 3.8
 TIME:    03:00:11 -> 03:00:26   (~0:15)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=10811s
 CHANGED: YES
 WHY:     Was 03:00:01–03:01:20; surrounding lines are about his guru/youth, so
          tightened to the praise sentence.
@@ -184,6 +202,7 @@ WHAT'S IN IT: Second Vrindavan Sant (Braj). "Very commendable work by revered Sh
 
 CLIP 3.9a  ⭐
 TIME:    03:12:00 -> 03:12:40   (~0:40)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=11520s
 CHANGED: YES (split from old 3.9)
 WHY:     Old 3.9 was ~11 min; the rest is general Shaiva discourse. Split into the
          two name-interpretation gems.
@@ -193,6 +212,7 @@ WHAT'S IN IT: Neelkanth Shivcharya Dhareshwar Maharaj. "MISHRA = one who MIXES" 
 
 CLIP 3.9b
 TIME:    03:15:09 -> 03:15:36   (~0:27)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=11709s
 CHANGED: YES (split from old 3.9)
 WHY:     Same split; the second name-interpretation.
 WHAT'S IN IT: Same saint. "This is KASHINATH! Kashi reversed = 'shika' = LEARN —
@@ -200,6 +220,7 @@ WHAT'S IN IT: Same saint. "This is KASHINATH! Kashi reversed = 'shika' = LEARN �
 
 CLIP 3.10
 TIME:    03:35:51 -> 03:36:28   (~0:37)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=12951s
 CHANGED: YES
 WHY:     Was 03:28:46–03:36:16 (~7 min) — entirely his own gau-raksha/NRC/Sambhaji
          speech. ONLY the closing ~33s mention Pandit Ji. Kept that.
@@ -209,6 +230,7 @@ WHAT'S IN IT: Sant Dada Ji (Gau Rakshak, Satara). "This work should've been done
 
 CLIP 3.11a  ⭐
 TIME:    03:42:15 -> 03:42:53   (~0:38)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=13335s
 CHANGED: YES (split from old 3.11)
 WHY:     Old 3.11 ran 03:41:29–03:52:48 with a 6.5-min Mahadev-Gopi story between
          mentions. Split into the two flagship statements.
@@ -218,6 +240,7 @@ WHAT'S IN IT: Doctor Babu Sant Maharaj (Ujjain). Seeing him sit 5 hrs: "whose
 
 CLIP 3.11b
 TIME:    03:49:39 -> 03:50:05   (~0:26)
+LINK:    https://www.youtube.com/watch?v=WbJX0notqqU&t=13779s
 CHANGED: YES (split from old 3.11)
 WHY:     Same split; the second flagship statement.
 WHAT'S IN IT: Same saint. "We weren't just invited — we all came on our own; our
@@ -235,6 +258,7 @@ Pandit Ji himself.
 
 CLIP 1
 TIME:    00:00:04 -> 00:00:18   (~0:14)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=4s
 CHANGED: YES
 WHY:     Was 00:00:00–00:00:15; nudged to the spoken line.
 WHAT'S IN IT: Mahamandaleshwar (Ujjain) during the opening bhajan — names "our
@@ -242,6 +266,7 @@ WHAT'S IN IT: Mahamandaleshwar (Ujjain) during the opening bhajan — names "our
 
 CLIP 2
 TIME:    00:11:05 -> 00:11:26   (~0:21)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=665s
 CHANGED: YES
 WHY:     Was old "Clip 3" 00:11:09–00:11:24; widened slightly (auto-caption garbled).
 WHAT'S IN IT: Ramakrishna Mission saint. After quoting Vivekananda, ties the
@@ -249,6 +274,7 @@ WHAT'S IN IT: Ramakrishna Mission saint. After quoting Vivekananda, ties the
 
 CLIP 3
 TIME:    00:15:53 -> 00:16:09   (~0:16)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=953s
 CHANGED: YES
 WHY:     Was old "Clip 4" 00:15:56–00:16:12; tightened.
 WHAT'S IN IT: Dinesh Maharaj (Maharashtra). Credits the organizer for arranging
@@ -258,6 +284,7 @@ WHAT'S IN IT: Dinesh Maharaj (Maharashtra). Credits the organizer for arranging
 
 CLIP 4
 TIME:    00:47:56 -> 00:48:54   (~0:58)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=2876s
 CHANGED: YES (timing + attribution)
 WHY:     Was 00:46:23–00:48:52 and wrongly labelled "Sudarshan Giri". The 00:46:19–
          00:47:58 part is a Namdev/Paithan intro; trimmed to the praise. Speaker
@@ -268,6 +295,7 @@ WHAT'S IN IT: "On one side is Jagannath, on the other Kashinath Ji — when devo
 
 CLIP 5
 TIME:    00:59:30 -> 00:59:48   (~0:18)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=3570s
 CHANGED: YES (minor)
 WHY:     Tightened to the line.
 WHAT'S IN IT: Sudarshan Maharaj. "Mishra Ji raised one call of devotion and all
@@ -275,6 +303,7 @@ WHAT'S IN IT: Sudarshan Maharaj. "Mishra Ji raised one call of devotion and all
 
 CLIP 6
 TIME:    01:01:39 -> 01:02:36   (~0:57)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=3699s
 CHANGED: YES (minor)
 WHY:     Tightened.
 WHAT'S IN IT: Sudarshan Maharaj. "Today Mishra Ji organised this satsang, so we
@@ -282,6 +311,7 @@ WHAT'S IN IT: Sudarshan Maharaj. "Today Mishra Ji organised this satsang, so we
 
 CLIP 7
 TIME:    01:03:14 -> 01:03:30   (~0:16)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=3794s
 CHANGED: YES (split from old 8)
 WHY:     Old 8 was 2 min with ~80s of his own gaushala details in the middle.
 WHAT'S IN IT: Shyam/Kesham Bhai (Alwar). "The development Mishra Ji has done here —
@@ -289,6 +319,7 @@ WHAT'S IN IT: Shyam/Kesham Bhai (Alwar). "The development Mishra Ji has done her
 
 CLIP 8
 TIME:    01:05:15 -> 01:05:33   (~0:18)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=3915s
 CHANGED: YES (split from old 8)
 WHY:     Second bookend of old 8.
 WHAT'S IN IT: Same saint. "In service of Gau Mata and the nation, I'll always
@@ -296,6 +327,7 @@ WHAT'S IN IT: Same saint. "In service of Gau Mata and the nation, I'll always
 
 CLIP 9  ⭐
 TIME:    01:20:08 -> 01:21:18   (~1:10)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=4808s
 CHANGED: YES (split from old 9)
 WHY:     Old 9 was 01:20:08–01:25:38 with ~2 min of gurukul/British-era history.
 WHAT'S IN IT: Gurukul Advocate Saint. Bows to "Shri Kashinath Ji" with all his
@@ -304,6 +336,7 @@ WHAT'S IN IT: Gurukul Advocate Saint. Bows to "Shri Kashinath Ji" with all his
 
 CLIP 10
 TIME:    01:23:00 -> 01:23:14   (~0:14)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=4980s
 CHANGED: YES (split from old 9)
 WHY:     Second named line of old 9.
 WHAT'S IN IT: Same saint. "Before us is one Kashinath — if our gurukuls run, there
@@ -311,6 +344,7 @@ WHAT'S IN IT: Same saint. "Before us is one Kashinath — if our gurukuls run, t
 
 CLIP 11
 TIME:    01:48:00 -> 01:48:57   (~0:57)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=6480s
 CHANGED: YES (minor)
 WHY:     Was 01:48:06–01:48:59; tightened.
 WHAT'S IN IT: Mahamandaleshwar Swami Ramgiri Ji (Ujjain Avahan Akhara). "One single
@@ -319,6 +353,7 @@ WHAT'S IN IT: Mahamandaleshwar Swami Ramgiri Ji (Ujjain Avahan Akhara). "One sin
 
 CLIP 12
 TIME:    02:15:00 -> 02:15:50   (~0:50)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=8100s
 CHANGED: NO
 WHY:     Original timing was accurate.
 WHAT'S IN IT: Speaker at the dais. "Kashinath Ji is leading you all — consider him
@@ -327,6 +362,7 @@ WHAT'S IN IT: Speaker at the dais. "Kashinath Ji is leading you all — consider
 
 CLIP 13
 TIME:    02:18:55 -> 02:19:30   (~0:35)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=8335s
 CHANGED: YES (was verification-add 1B)
 WHY:     Tightened to the praise + pledge.
 WHAT'S IN IT: Puri representative (Karpatri tradition). "Kashinath Ji Pandit Ji has
@@ -334,6 +370,7 @@ WHAT'S IN IT: Puri representative (Karpatri tradition). "Kashinath Ji Pandit Ji 
 
 CLIP 14  ⭐
 TIME:    02:26:55 -> 02:27:14   (~0:19)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=8815s
 CHANGED: YES
 WHY:     Was old 12 02:27:01–02:27:12 (only ~11s); widened to the full sentence.
 WHAT'S IN IT: Yogiraj Maharaj Paithankar (14th descendant of Sant Eknath).
@@ -342,6 +379,7 @@ WHAT'S IN IT: Yogiraj Maharaj Paithankar (14th descendant of Sant Eknath).
 
 CLIP 15
 TIME:    02:39:14 -> 02:39:48   (~0:34)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=9554s
 CHANGED: YES (promoted from "additional mention")
 WHY:     Was only listed as an aside; promoted to a full clip.
 WHAT'S IN IT: Thanapati Mohan Nityaanand Giri (Kamakhya, Assam). "Kashinath Mishra
@@ -350,6 +388,7 @@ WHAT'S IN IT: Thanapati Mohan Nityaanand Giri (Kamakhya, Assam). "Kashinath Mish
 
 CLIP 16  ⭐
 TIME:    02:44:21 -> 02:45:58   (~1:37)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=9861s
 CHANGED: YES (promoted from "additional mention")
 WHY:     Promoted to a full clip.
 WHAT'S IN IT: Collective blessing call. Calls him "a divine great soul who united
@@ -358,6 +397,7 @@ WHAT'S IN IT: Collective blessing call. Calls him "a divine great soul who unite
 
 CLIP H1  ⚪ (host)
 TIME:    02:25:00 -> 02:25:48   (~0:48)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=8700s
 CHANGED: YES (was verification-add 1D)
 WHY:     Kept but clearly labelled as the host, not an independent saint.
 WHAT'S IN IT: Host praises Kashinath Ji's depth of Puranic knowledge; will give a
@@ -365,6 +405,7 @@ WHAT'S IN IT: Host praises Kashinath Ji's depth of Puranic knowledge; will give 
 
 CLIP H2  ⚪ (host)
 TIME:    02:48:43 -> 02:49:31   (~0:48)
+LINK:    https://www.youtube.com/watch?v=Ci2x0I-YCYI&t=10123s
 CHANGED: YES (promoted from "additional mention")
 WHY:     Kept, labelled host.
 WHAT'S IN IT: Host highlights his sacrifice — "served even at 11 PM, 12, 1 AM;
@@ -388,6 +429,7 @@ Brahmanand Guru Ji (Karnataka), densely about Mishra Ji — kept as soundbites.
 
 CLIP 7.1
 TIME:    00:11:11 -> 00:11:54   (~0:43)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=671s
 CHANGED: YES
 WHY:     End trimmed from 00:12:09 (rest is generic Sanatan talk).
 WHAT'S IN IT: Bengali/Odia female saint. "Kashinath Ji organised this great event
@@ -396,6 +438,7 @@ WHAT'S IN IT: Bengali/Odia female saint. "Kashinath Ji organised this great even
 
 CLIP 7.2
 TIME:    00:23:28 -> 00:23:50   (~0:22)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=1408s
 CHANGED: YES
 WHY:     Start trimmed from 00:23:21 to the actual "Kashinath Ji" line.
 WHAT'S IN IT: Naga Baba (Kamakhya). "Let us unite, take Kashinath Ji [as leader]
@@ -403,6 +446,7 @@ WHAT'S IN IT: Naga Baba (Kamakhya). "Let us unite, take Kashinath Ji [as leader]
 
 CLIP 7.3
 TIME:    00:40:08 -> 00:40:43   (~0:35)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=2408s
 CHANGED: YES
 WHY:     Retimed from 00:39:51–00:40:37 (the name is at 00:40:15).
 WHAT'S IN IT: Dr. Shiv Yogi Shivacharya. Acknowledges "Hamare Kashinath Pandit
@@ -410,24 +454,28 @@ WHAT'S IN IT: Dr. Shiv Yogi Shivacharya. Acknowledges "Hamare Kashinath Pandit
 
 CLIP 7.4
 TIME:    00:56:13 -> 00:57:08   (~0:55)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=3373s
 CHANGED: NO   (Brahmanand speech — timing accurate)
 WHAT'S IN IT: Bows to Kashinath Mishra Ji for organizing this sangam; requests him
          to present the Bhavishya Malika.
 
 CLIP 7.5
 TIME:    00:59:53 -> 01:00:16   (~0:23)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=3593s
 CHANGED: NO
 WHAT'S IN IT: "For Kashinath Mishra Ji's unbreakable resolve to be fulfilled, ALL
          must support him — one stick breaks, ten don't."
 
 CLIP 7.6
 TIME:    01:03:14 -> 01:03:55   (~0:41)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=3794s
 CHANGED: NO
 WHAT'S IN IT: "Nobody thinks about Mishra Ji — he is one man alone who gathered us.
          By Shiva's command and Jagannath's oath, WE STAND WITH MISHRA JI."
 
 CLIP 7.7
 TIME:    01:04:07 -> 01:06:35   (~2:28)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=3847s
 CHANGED: NO
 WHAT'S IN IT: The Shringeri/Bangalore story — Mishra Ji went alone, wasn't
          recognised, charged Rs 8 lakh; "when he comes to South India I'll be with
@@ -435,41 +483,48 @@ WHAT'S IN IT: The Shringeri/Bangalore story — Mishra Ji went alone, wasn't
 
 CLIP 7.8
 TIME:    01:07:39 -> 01:09:18   (~1:39)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=4059s
 CHANGED: NO
 WHAT'S IN IT: "Mishra Ji's word reaches people like Krishna's reached Arjun.
          Kashinath Mishra Ji, explain your Bhavishya Malika in simple language."
 
 CLIP 7.9
 TIME:    01:12:46 -> 01:13:44   (~0:58)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=4366s
 CHANGED: NO
 WHAT'S IN IT: "We came not on his invitation — Krishna-Jagannath considered Mishra
          Ji as Sudham and called us through him. Accept Mishra Ji FIRST."
 
 CLIP 7.10
 TIME:    01:15:13 -> 01:15:30   (~0:17)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=4513s
 CHANGED: NO
 WHAT'S IN IT: "Jagannath's mouth and Mishra Ji's mouth — what is written is the SAME."
 
 CLIP 7.11
 TIME:    01:17:06 -> 01:17:36   (~0:30)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=4626s
 CHANGED: NO
 WHAT'S IN IT: "Do you know how much Mishra Ji has done? Alone he united, awakened,
          organised people, ran from South to North, prayed to God."
 
 CLIP 7.12
 TIME:    01:20:24 -> 01:22:05   (~1:41)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=4824s
 CHANGED: NO
 WHAT'S IN IT: "We came to Mishra Ji's door and owe him a debt — contribute; give
          him our strength, knowledge, resources to make his Bhavishya Malika succeed."
 
 CLIP 7.13
 TIME:    01:24:00 -> 01:24:30   (~0:30)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=5040s
 CHANGED: NO
 WHAT'S IN IT: Leads the Jai chant — Bharat Mata / Jagannath / Ram / Sita Ramchandra
          … then "MISHRA JI KI — JAI!" (puts him in the same line).
 
 CLIP 7.14
 TIME:    01:55:00 -> 01:56:14   (~1:14)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=6900s
 CHANGED: YES (flagged)
 WHY:     Flagged ⚠ INDIRECT — it says "Mahapurush who created this Kumbh" and does
          NOT name Pandit Ji. Kept but marked so the editor decides.
@@ -479,6 +534,7 @@ WHAT'S IN IT: Mahamandaleshwar Seetaram Das Ji (Surat). "I thank again and again
 
 CLIP 7A
 TIME:    Seg 1: 02:08:55 -> 02:09:25   |   Seg 2: 02:14:40 -> 02:15:35
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=7735s   |   https://www.youtube.com/watch?v=8ng4xkeLsIg&t=8080s
 CHANGED: YES (split)
 WHY:     Was one 02:08:50–02:15:35 range with ~5 min of generic Sanatan-permanence
          talk between the two mentions. Split into two tight segments.
@@ -488,6 +544,7 @@ WHAT'S IN IT: Seg 1 — "Mishra Ji has taken the vow that we will not stop, not
 
 CLIP 7B
 TIME:    02:17:55 -> 02:18:28   (~0:33)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=8275s
 CHANGED: YES
 WHY:     Tightened from 02:15:45–02:19:30 (rest is a Vedas discourse, no mention).
 WHAT'S IN IT: Harivansh Rai Brahmachari (Surat). "Mishra Ji is doing great work for
@@ -495,12 +552,14 @@ WHAT'S IN IT: Harivansh Rai Brahmachari (Surat). "Mishra Ji is doing great work 
 
 CLIP 7C
 TIME:    02:24:50 -> 02:25:35   (~0:45)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=8690s
 CHANGED: NO
 WHAT'S IN IT: Harivansh Rai (closing). "Mishra Ji gathered us all for one purpose —
          to protect Sanatan and the saints."
 
 CLIP 7D
 TIME:    00:27:19 -> 00:27:43   (~0:24)
+LINK:    https://www.youtube.com/watch?v=8ng4xkeLsIg&t=1639s
 CHANGED: NO
 WHAT'S IN IT: Naga Baba. All Sanatanis/saints should unite and take a vow from this
          holy ground in support of "Kashi Maharaj's" great endeavour — the most
@@ -516,6 +575,7 @@ Confirmed clips: 26 (24 main + 2.3b + 2.13)  + 2A–2D  (+ optional 2E)
 
 CLIP 2.1
 TIME:    00:10:15 -> 00:14:15   (~4:00)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=615s
 CHANGED: YES
 WHY:     Start trimmed from 00:09:10 (first ~70s was his greeting; first name at
          00:10:21).
@@ -526,12 +586,14 @@ WHAT'S IN IT: Mahant Ram Kripa Das Naga Baba (Gujarat). Thanks Kashinath Mishra 
 
 CLIP 2.2
 TIME:    00:17:23 -> 00:18:32   (~1:09)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=1043s
 CHANGED: NO
 WHAT'S IN IT: Deen Dayal Ji (Kolkata). Credits Kashinath Baba for bringing saints
          from 32 states; amplifies his unity message; sang a song for the occasion.
 
 CLIP 2.3
 TIME:    00:27:09 -> 00:30:08   (~2:59)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=1629s
 CHANGED: NO
 WHAT'S IN IT: Sant Shiromani Mahamandleshwar (Ujjain). Calls him "Vishwanath Ji —
          the architect of this programme"; "blessed are his parents!"; his work
@@ -540,6 +602,7 @@ WHAT'S IN IT: Sant Shiromani Mahamandleshwar (Ujjain). Calls him "Vishwanath Ji 
 
 CLIP 2.3b   (ADDED THIS PASS)
 TIME:    00:34:50 -> 00:35:15   (~0:25)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=2090s
 CHANGED: YES — NEW CLIP ADDED
 WHY:     This strong line (same speaker, later in his speech) was previously not
          cut as a clip. Added.
@@ -548,12 +611,14 @@ WHAT'S IN IT: "Who will bring about the nation's welfare? Kashinath Ji certainly
 
 CLIP 2.5
 TIME:    00:39:25 -> 00:41:00   (~1:35)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=2365s
 CHANGED: NO
 WHAT'S IN IT: Mahamandleshwar Swami Ramgiri Ji ("Danda wale Baba", Ujjain). "Many
          many thanks/sadhuvad to Kashinath Ji Pandit Shri for holding this event."
 
 CLIP 2.6
 TIME:    00:55:55 -> 00:58:18   (~2:23)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=3355s
 CHANGED: NO
 WHAT'S IN IT: Acharya Ranjan Krishna Maharaj (Vrindavan). Addresses Kashinath
          Mishra Ji directly as the leader of Vishwa Sanatan Dharma seva; asks him
@@ -561,24 +626,28 @@ WHAT'S IN IT: Acharya Ranjan Krishna Maharaj (Vrindavan). Addresses Kashinath
 
 CLIP 2.7
 TIME:    01:06:41 -> 01:07:10   (~0:29)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=4001s
 CHANGED: NO
 WHAT'S IN IT: Sant Maharaj (Maharashtra). "Kashinath Ji Mishra has gathered all
          these sadhus, mahamandleshwars and saints together."
 
 CLIP 2.8
 TIME:    01:10:28 -> 01:11:15   (~0:47)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=4228s
 CHANGED: NO
 WHAT'S IN IT: Ramesha Anand Giri Maharaj (Maharashtra). His seva — "comes at 11 PM
          to ask if we've eaten"; praises his Bhavishya-Puran knowledge.
 
 CLIP 2.9
 TIME:    01:21:53 -> 01:23:12   (~1:19)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=4913s
 CHANGED: NO
 WHAT'S IN IT: Gopal Nand Giri Maharaj (Maharashtra). "Kashinath Mishra Ji Pandit Ji
          built this organisation"; (Marathi) "he gave everyone here an opportunity."
 
 CLIP 2.10
 TIME:    01:19:00 -> 01:19:40   (~0:40)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=4740s
 CHANGED: NO  (note: this occurs BEFORE 2.9 on the timeline — listed out of order)
 WHAT'S IN IT: Mahadev Ji Maharaj. Garland metaphor — "like a gardener strings many
          flowers into one garland, Kashinath Baba called all saints/sects and put
@@ -586,12 +655,14 @@ WHAT'S IN IT: Mahadev Ji Maharaj. Garland metaphor — "like a gardener strings 
 
 CLIP 2.11
 TIME:    01:49:18 -> 01:49:41   (~0:23)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=6558s
 CHANGED: NO
 WHAT'S IN IT: Young saint leads a JAIKARA — "Pandit Kashinath Mishra ki Jai!" —
          because "he has gone ahead, and if we all walk with him, Sanatan will rise."
 
 CLIP 2.12
 TIME:    01:57:14 -> 01:58:02   (~0:48)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=7034s
 CHANGED: NO
 WHAT'S IN IT: Warkari Sant (Maharashtra). Names "Pandit Kashinath Ji Mishra";
          compares him to Shivaji's Hiroji Indulkar — Jagannath gave him the
@@ -599,6 +670,7 @@ WHAT'S IN IT: Warkari Sant (Maharashtra). Names "Pandit Kashinath Ji Mishra";
 
 CLIP 2.13   (ADDED THIS PASS)
 TIME:    02:12:33 -> 02:14:18   (~1:45)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=7953s
 CHANGED: YES — NEW CLIP ADDED
 WHY:     Filled the previously-uncovered 02:12–02:15 gap (speaker just before 2.15).
 WHAT'S IN IT: Marathi Warkari Sant. Invites Kashinath Maharaj to Maharashtra to be
@@ -607,18 +679,21 @@ WHAT'S IN IT: Marathi Warkari Sant. Invites Kashinath Maharaj to Maharashtra to 
 
 CLIP 2.14
 TIME:    02:07:32 -> 02:08:23   (~0:51)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=7652s
 CHANGED: NO
 WHAT'S IN IT: Pandit Shri (from the manch). "Lord Jagannath Himself gave Kashinath
          Mishra Ji the dayitva (divine responsibility) to expand Vishwa Sanatan Dharma."
 
 CLIP 2.15
 TIME:    02:16:23 -> 02:18:56   (~2:33)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=8183s
 CHANGED: NO
 WHAT'S IN IT: Sant Maharaj (Bateshwar/Braj). Flag metaphor — the flag of Sanatan
          was falling; "Kashinath Ji raised it"; "we'll walk the line he draws for us."
 
 CLIP 2.16
 TIME:    02:22:52 -> 02:24:23   (~1:31)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=8572s
 CHANGED: NO
 WHAT'S IN IT: Sudarshan Acharya (Bengal/Kolkata). Calls him SHIVA'S AMSHA — "one
          who can organise such a massive gathering is an embodiment of Shiva"; bows
@@ -626,6 +701,7 @@ WHAT'S IN IT: Sudarshan Acharya (Bengal/Kolkata). Calls him SHIVA'S AMSHA — "o
 
 CLIP 2.17
 TIME:    02:34:06 -> 02:34:56   (~0:50)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=9246s
 CHANGED: NO
 WHAT'S IN IT: Sadhvi Mata (Maharashtra). "India knew four Naths — Kashi Vishwanath,
          Badrinath, Kedarnath… " — effectively names Kashinath Ji as a 5th, the
@@ -633,18 +709,21 @@ WHAT'S IN IT: Sadhvi Mata (Maharashtra). "India knew four Naths — Kashi Vishwa
 
 CLIP 2.18
 TIME:    02:40:18 -> 02:40:42   (~0:24)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=9618s
 CHANGED: NO
 WHAT'S IN IT: Warkari Sant (Maharashtra). "May God give Pandit Mishra Ji a very long
          life and let this dharma-work happen through his hands."
 
 CLIP 2.19
 TIME:    02:44:51 -> 02:45:12   (~0:21)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=9891s
 CHANGED: NO
 WHAT'S IN IT: Maharashtra Sant Sabha rep. "Heartfelt pranam to Pandit Mishra who
          created this union."
 
 CLIP 2.20  ⭐
 TIME:    02:59:49 -> 03:01:53   (~2:04)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=10789s
 CHANGED: NO
 WHAT'S IN IT: Maharashtra Sant (25 yrs dharma seva). The most extreme praise of all
          — "I feel Mishra Ji is KALKI BHAGWAN! Kaliyug is ending, Satyug beginning;
@@ -652,12 +731,14 @@ WHAT'S IN IT: Maharashtra Sant (25 yrs dharma seva). The most extreme praise of 
 
 CLIP 2.21
 TIME:    03:10:01 -> 03:11:05   (~1:04)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=11401s
 CHANGED: NO
 WHAT'S IN IT: Nirmal Devdas Ji Mahamandleshwar. Lamp metaphor — "you poured ghee and
          camphor into the dimming lamp of Sanatan; now watch the light spread."
 
 CLIP 2.22
 TIME:    03:16:09 -> 03:17:53   (~1:44)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=11769s
 CHANGED: NO
 WHAT'S IN IT: Kumareshwar Giri Ji Maharaj (Gujarat). Connects a 600-year prophecy to
          him — "the one who will protect Sanatan is not a mortal but Bhagwan — and
@@ -665,12 +746,14 @@ WHAT'S IN IT: Kumareshwar Giri Ji Maharaj (Gujarat). Connects a 600-year prophec
 
 CLIP 2.23
 TIME:    03:20:01 -> 03:20:43   (~0:42)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=12001s
 CHANGED: NO
 WHAT'S IN IT: Kiran Swami (Sahayata International). "Because of Kashinath Mishra Ji's
          vision and hard work we are all gathered here."
 
 CLIP 2.24  ⭐
 TIME:    03:30:03 -> 03:39:01   (~8:58)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=12603s
 CHANGED: NO
 WHAT'S IN IT: Mahamandleshwar (Surat). Longest tribute — extended Hanuman metaphor:
          "there is no one like Kashinath Mishra to AWAKEN people; Kashi Vishwanath
@@ -679,23 +762,27 @@ WHAT'S IN IT: Mahamandleshwar (Surat). Longest tribute — extended Hanuman meta
 
 CLIP 2A
 TIME:    01:29:20 -> 01:30:20   (~1:00)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=5360s
 CHANGED: NO
 WHAT'S IN IT: A saint formally proposes that the assembly give Chairman "Vishwanath
          Pandit Ji Maharaj" a Sant Upadhi (saintly title).
 
 CLIP 2B
 TIME:    01:46:40 -> 01:47:05   (~0:25)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=6400s
 CHANGED: NO
 WHAT'S IN IT: "We were so moved by Pandit Ji's bhajan, as if love had awakened in us."
 
 CLIP 2C
 TIME:    02:27:30 -> 02:28:50   (~1:20)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=8850s
 CHANGED: NO
 WHAT'S IN IT: Kolkata saint (Digdarshan Ashram). Credits Kashinath Ji's YouTube
          channel for spreading the message across India; that's how his ashram joined.
 
 CLIP 2D
 TIME:    02:46:35 -> 02:47:50   (~1:15)
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=9995s
 CHANGED: NO
 WHAT'S IN IT: Maharashtra saint (Gau Raksha awardee). "Though God is formless, He
          takes form through saints like Mishra Ji to protect Sanatan"; addresses
@@ -703,6 +790,7 @@ WHAT'S IN IT: Maharashtra saint (Gau Raksha awardee). "Though God is formless, H
 
 CLIP 2E   (OPTIONAL — not counted)
 TIME:    02:50:25 -> 02:51:48
+LINK:    https://www.youtube.com/watch?v=2bhgDE-mgoY&t=10225s
 CHANGED: flagged optional
 WHY:     Auto-captions not clean enough to confirm it is definitively addressed to
          Mishra Ji personally — kept as an optional ceremony/honor mention.
